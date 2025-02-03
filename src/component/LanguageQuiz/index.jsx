@@ -25,17 +25,22 @@ const LanguageQuiz = () => {
   }
   // Generate a random question
   const generateQuestion = () => {
-    const languages = Object.keys(WORDS_DATA)
-    const correctLanguage = languages[getRandomIndex(languages.length)]
-    const words = WORDS_DATA[correctLanguage]
-    const word = words[getRandomIndex(words.length)]
+    // Create an array of word-language pairs
+    const wordList = Object.entries(WORDS_DATA).flatMap(([language, words]) =>
+      words.map((word) => ({ word, language }))
+    )
+
+    // Select a random word from the list
+    const { word, language: correctLanguage } =
+      wordList[getRandomIndex(wordList.length)]
 
     // Get 3 random wrong options
-    const wrongOptions = languages
+    const wrongOptions = Object.keys(WORDS_DATA)
       .filter((lang) => lang !== correctLanguage)
       .sort(() => Math.random() - 0.5)
       .slice(0, 3)
 
+    // Mix correct and wrong answers
     const options = [...wrongOptions, correctLanguage].sort(
       () => Math.random() - 0.5
     )
