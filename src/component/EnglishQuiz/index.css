@@ -1,0 +1,19 @@
+.container {
+  max-width: 800px;
+}
+
+input[type="radio"] {
+  accent-color: theme('colors.blue.500');
+}
+
+label {
+  cursor: pointer;
+}
+
+label:hover {
+  color: theme('colors.gray.700');
+}
+
+.bg-gray-100 {
+  background-color: theme('colors.gray.100');
+}

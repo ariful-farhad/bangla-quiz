@@ -1,0 +1,3047 @@
+[
+  {
+    "id": 1,
+    "question_text": "He is a man of -. (তিনি একজন গুণী ব্যক্তি)",
+    "options": ["a) parts", "b) parting", "c) parted", "d) part"],
+    "answer": "a",
+    "source": "[RU (বাণিজ্য) 05-06]"
+  },
+  {
+    "id": 2,
+    "question_text": "'Man of parts' means -",
+    "options": ["a) honest", "b) sincere", "c) talented", "d) worthless"],
+    "answer": "c",
+    "source": "[রাজশাহী কৃষি উন্নয়ন ব্যাংক (কোষাধ্যক্ষ)-১৫, ইসলামী ব্যাংক লি. (ট্রেইনি অফিসার, ক্যাশ)-১৭]"
+  },
+  {
+    "id": 3,
+    "question_text": "There are - parts of speech in English. / The number of parts of speech in English Grammar is —",
+    "options": ["a) five", "b) eight", "c) seven", "d) six"],
+    "answer": "b",
+    "source": "[টেক্সাইল ইঞ্জিনিয়ারিং কলেজের ইনস্ট্রাক্টর-১৮, পিটিআই এর শিক্ষক-১৯] / [বাংলাদেশ ব্যাংক (AD)-০১]"
+  },
+  {
+    "id": 4,
+    "question_text": "Parts of speech কত প্রকার?",
+    "options": ["a) two", "b) eight", "c) three", "d) five"],
+    "answer": "b",
+    "source": "[বন অধিদপ্তরে জুনিয়র ওয়াইল্ড লাইফ স্কাউট-২২, বাংলাদেশ ডাক বিভাগের পোস্টম্যান-২৩]"
+  },
+  {
+    "id": 5,
+    "question_text": "ইংরেজি ব্যাকরণের Adverb কে বাংলায় কি বলে-",
+    "options": [
+      "a) নাম বিশেষণ",
+      "b) ভাব বিশেষণ",
+      "c) সমুচ্চয়ী অব্যয়",
+      "d) নামপদ"
+    ],
+    "answer": "b",
+    "source": "[৮ম বিজেএস (সহকারী জজ)-১৩]"
+  },
+  {
+    "id": 1,
+    "question_text": "The word 'Adjective' is a/an — / The word 'noun' is a —",
+    "options": ["a) Pronoun", "b) Noun", "c) Verb", "d) Adjective"],
+    "answer": "b",
+    "source": "[IU (B) 12-13, BRUR (F) 12-13, (D) 17-18] / [IU (B) 05-06]"
+  },
+  {
+    "id": 2,
+    "question_text": "An antonym of 'Abstract' is-",
+    "options": ["a) Abuse", "b) Concrete", "c) Abstruse", "d) Refrain"],
+    "answer": "b",
+    "source": "[DU (C) 00-01, MBSTU (B) 11-12, RU (BBA) 09-10, (A3) 12-13]"
+  },
+  {
+    "id": 3,
+    "question_text": "Noun কত প্রকার?",
+    "options": ["a) 5", "b) 6", "c) 4", "d) 3"],
+    "answer": "a",
+    "source": "[প্রাথমিক শিক্ষা অধিদপ্তরের হিসাব সহকারী-১১]"
+  },
+  {
+    "id": 4,
+    "question_text": "কোনটি parts of speech নয়?",
+    "options": ["a) noun", "b) pronoun", "c) gerund", "d) verb"],
+    "answer": "c",
+    "source": "[পরিবার পরিকল্পনা অধিদপ্তরে নিয়োগ-১৪]"
+  },
+  {
+    "id": 5,
+    "question_text": "The name of one particular person, thing or place is called:",
+    "options": [
+      "a) A collective noun",
+      "b) A material noun",
+      "c) A proper noun",
+      "d) A common noun"
+    ],
+    "answer": "c",
+    "source": "[PSTU (CSE) 13-14]"
+  },
+  {
+    "id": 6,
+    "question_text": "What kind of noun is 'Dhaka'?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "a",
+    "source": "[পেট্রোবাংলার হিসাব সহকারী-১৯]"
+  },
+  {
+    "id": 7,
+    "question_text": "Which of the following is proper noun?",
+    "options": [
+      "a) Rabindranath",
+      "b) Car",
+      "c) Rain",
+      "d) Fast (রোজা, উপবাস)"
+    ],
+    "answer": "a",
+    "source": "[RU (ভূগোল) 05-06, HSTU (G) 17-18]"
+  },
+  {
+    "id": 8,
+    "question_text": "The Padma is a river. Choose the correct parts of speech of the underlined word.",
+    "options": [
+      "a) Collective noun",
+      "b) Pronoun",
+      "c) Abstract noun",
+      "d) Proper noun"
+    ],
+    "answer": "d",
+    "source": "[RU 06-07]"
+  },
+  {
+    "id": 9,
+    "question_text": "A noun that names a general class of person, place or things is a-",
+    "options": [
+      "a) proper noun",
+      "b) general noun",
+      "c) perfect noun",
+      "d) common noun"
+    ],
+    "answer": "d",
+    "source": "[বাংলাদেশ ব্যাংক-০১]"
+  },
+  {
+    "id": 10,
+    "question_text": "What kind of noun is 'river'?",
+    "options": ["a) Material", "b) Collective", "c) Proper", "d) Common"],
+    "answer": "d",
+    "source": "[ফায়ার সার্ভিস অ্যান্ড সিভিল ডিফেন্স-এর ফোরম্যান-১৯, 44th BCS]"
+  },
+  {
+    "id": 11,
+    "question_text": "What kind of noun is 'man'?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "b",
+    "source": "[রেলওয়ের উপ-সহকারী প্রকৌশলী (মেকানিক্যাল)-০৬, সহকারী সাইফার অফিসার-১৭]"
+  },
+  {
+    "id": 12,
+    "question_text": "What kind of noun is 'Girl'? / 'Anita is a good girl.' বাক্যে 'girl' শব্দটি-",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Material noun",
+      "d) Collective noun"
+    ],
+    "answer": "b",
+    "source": "[10th BCS, HSTU (B) 08-09, SUST (B) 08-09, COU (B) 09-10, RU (F1) 11-12, IU (G) 12-13, BRUR (D) 14-15, উপজেলা মহিলা বিষয়ক কর্মকর্তা-১৬, জুনিয়র পরিসংখ্যান সহকারী-২০] / [প্রাথমিক প্রধান শিক্ষক (শিউলী)-০৯, প্রাক-প্রাথমিক সহ: শিক্ষক (ঝিলাম)-১৩]"
+  },
+  {
+    "id": 13,
+    "question_text": "What kind of noun is 'boy'?",
+    "options": ["a) Proper", "b) Common", "c) Abstract", "d) Material"],
+    "answer": "b",
+    "source": "[সমবায় দপ্তরের ২য় শ্রেণির গেজেটেড অফিসার-৯৭, তথ্য মন্ত্রণালয়ের সহকারী পরিচালক-০৪, সোনালী ব্যাংক (অফিসার)-১০, ডেসকো'র সহকারী কমপ্লেইন সুপারভাইজার/এসিপি-১৯, NSI এর জুনিয়র ফিল্ড অফিসার-১৯]"
+  },
+  {
+    "id": 14,
+    "question_text": "The elephant has great strength. এখানে elephant শব্দটি-",
+    "options": [
+      "a) proper noun",
+      "b) common noun",
+      "c) collective noun",
+      "d) material noun"
+    ],
+    "answer": "b",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (শিউলী)-০৯]"
+  },
+  {
+    "id": 15,
+    "question_text": "I recognized your voice at once.",
+    "options": ["a) Common", "b) Proper", "c) Collective", "d) Abstract"],
+    "answer": "a",
+    "source": "[RU (Law) 06-07, সামরিক ভূমি ও ক্যান্টনমেন্ট অধিদপ্তরের জুনিয়র শিক্ষক-২৩]"
+  },
+  {
+    "id": 16,
+    "question_text": "Dhaka is a big city. এখানে Dhaka শব্দটি কোন প্রকারের noun?",
+    "options": ["a) proper", "b) common", "c) collective", "d) material"],
+    "answer": "a",
+    "source": "[কর্মসংস্থান ব্যাংক-১১]"
+  },
+  {
+    "id": 17,
+    "question_text": "Dhaka is a big city. এখানে City শব্দটি কোন প্রকারের Noun?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (তিস্তা)-১০]"
+  },
+  {
+    "id": 18,
+    "question_text": "The poor are always unhappy. 'The poor' is — noun. (গরীবেরা সবসময় অসুখী)",
+    "options": [
+      "a) Plural common",
+      "b) Plural proper",
+      "c) Collective",
+      "d) Material"
+    ],
+    "answer": "a",
+    "source": "[IU খ 02-03, বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ডের সহকারী সচিব/সহকারী পরিচালক-২১]"
+  },
+  {
+    "id": 19,
+    "question_text": "I think - should pay more taxes. (আমি মনে করি ধনীদের বেশি কর দেয়া উচিত) / - should pay more taxes. (ধনীদের বেশি কর দেয়া উচিত)",
+    "options": ["a) the rich", "b) the riches", "c) rich", "d) riches (রিচিজ)"],
+    "answer": "a",
+    "source": "[RU (Law) 09-10] / [CU (C1) 06-07, (A) 15-16]"
+  },
+  {
+    "id": 20,
+    "question_text": "The poor always honour the rich. here 'the rich' is - ",
+    "options": ["a) noun", "b) adjective", "c) adverb", "d) pronoun"],
+    "answer": "a",
+    "source": "[KU (A) 08-09]"
+  },
+  {
+    "id": 21,
+    "question_text": "What kind of noun is 'Cattle'?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "c",
+    "source": "[10th BCS, RU (দর্শন) 08-09, (ভূগোল) 09-10, 10-11, প্রাক-প্রাথমিক সহ: শিক্ষক (মিসিসিপি)-১৩, IU (B) 10-11, (H) 13-14, JnU (C) 10-11, COU (B) 13-14, JUST (F) 16-17, সরকারী মাধ্যমিক সহকারী শিক্ষক-১৯, ডাক জীবন বীমা, (পূর্বাঞ্চল) ঢাকা: অফিস সহকারী-২২, মন্ত্রিপরিষদ বিভাগে কম্পিউটার অপারেটর-২৩]"
+  },
+  {
+    "id": 22,
+    "question_text": "A herd of cattle is passing. The underlined word here is-",
+    "options": [
+      "a) adjective",
+      "b) common noun",
+      "c) collective noun",
+      "d) abstract noun"
+    ],
+    "answer": "c",
+    "source": "[জাতীয় সঞ্চয় পরিদপ্তরের সহকারী পরিচালক-০৯, 43rd BCS]"
+  },
+  {
+    "id": 23,
+    "question_text": "The word 'army' is a- / Kamal did not join the army. Here the word 'Army' is",
+    "options": [
+      "a) abstract noun",
+      "b) common noun",
+      "c) collective noun",
+      "d) material noun"
+    ],
+    "answer": "c",
+    "source": "[চলচ্চিত্র ও প্রকাশনা অধিদপ্তরের ক্যামেরাম্যান-১৯] / [প্রাথমিক সহকারী শিক্ষক (৪র্থ পর্যায়)-১৯]"
+  },
+  {
+    "id": 24,
+    "question_text": "You must watch the fleet. Here 'fleet' is -",
+    "options": [
+      "a) an abstract noun",
+      "b) a proper noun",
+      "c) a collective noun",
+      "d) a material noun"
+    ],
+    "answer": "c",
+    "source": "[RU (E) 14-15, সাউদিস্ট ব্যাংক লি. প্রবেশনারী অফিসার-১৬]"
+  },
+  {
+    "id": 25,
+    "question_text": "'Ali saw a flock of sheep.' বাক্যে 'flock' শব্দটি কোন noun?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Abstract"],
+    "answer": "c",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (ঝিলাম)-১৩]"
+  },
+  {
+    "id": 26,
+    "question_text": "What kind of noun is ‘family'?",
+    "options": ["a) proper", "b) common", "c) collective", "d) material"],
+    "answer": "c",
+    "source": "[IU (B) 12-13]"
+  },
+  {
+    "id": 27,
+    "question_text": "The crowd was very big. Which form of noun the underlined word is- / The police dispersed the crowd. এখানে crowd শব্দটি কোন প্রকারের noun?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Abstract"],
+    "answer": "c",
+    "source": "[RU 07-08] / [প্রাথমিক প্রধান শিক্ষক-০৯]"
+  },
+  {
+    "id": 28,
+    "question_text": "I saw a _ of cows in the field.",
+    "options": ["a) group", "b) herd", "c) swarm", "d) flock"],
+    "answer": "b",
+    "source": "[বিসিআই সি'র সহ: ব্যবস্থাপক (প্রশাসন)-১১, রাজশাহী কৃষি উন্নয়ন ব্যাংক (ক্যাশিয়ার)-১৭]"
+  },
+  {
+    "id": 29,
+    "question_text": "A group of lions is called-",
+    "options": [
+      "a) a pack of lions",
+      "b) a pride of lions",
+      "c) a flock of lions",
+      "d) a colony of lions"
+    ],
+    "answer": "b",
+    "source": "[দুর্যোগ ব্যবস্থাপনা অধিদপ্তরের অফিস সহকারী-১৯]"
+  },
+  {
+    "id": 30,
+    "question_text": "Which collective noun is used to describe a number of sheep? / What do you call a group of sheep?",
+    "options": ["a) herd", "b) gang", "c) flock", "d) pack", "e) crowd"],
+    "answer": "c",
+    "source": "[KUET 15-16] / [সাধারণ বীমা কর্পোরেশন (জুনিয়র অফিসার)-০৯]"
+  },
+  {
+    "id": 31,
+    "question_text": "I saw a _ of monkeys in the forest. (আমি জঙ্গলে এক দল বানর দেখলাম)",
+    "options": ["a) group", "b) herd", "c) swarm", "d) flock", "e) troop"],
+    "answer": "e",
+    "source": "[CU (A1) 14-15]"
+  },
+  {
+    "id": 32,
+    "question_text": "Questions will be answered by a - of experts.",
+    "options": ["a) panel", "b) staff", "c) bunch (বান্‌)", "d) band"],
+    "answer": "a",
+    "source": "[উত্তরা ব্যাংক লি. অফিসার (ক্যাশ)-১৭]"
+  },
+  {
+    "id": 33,
+    "question_text": "What is the collective noun for a group of young partridges?",
+    "options": ["a) gaggle", "b) covey", "c) flock", "d) school"],
+    "answer": "b",
+    "source": "[সহকারী থানা শিক্ষা অফিসার-৯৯]"
+  },
+  {
+    "id": 34,
+    "question_text": "What is the collective noun for knives, forks, spoons, and other eating utensils?",
+    "options": [
+      "a) crockery",
+      "b) cutlery",
+      "c) weaponry",
+      "d) eatery (ভোজনালয়)"
+    ],
+    "answer": "b",
+    "source": "[IU 05-06]"
+  },
+  {
+    "id": 35,
+    "question_text": "The committee _ unable to agree on this question.",
+    "options": ["a) is", "b) was", "c) were", "d) none of those"],
+    "answer": "c",
+    "source": "[রাজশাহী কৃষি উন্নয়ন ব্যাংক (সুপারভাইজার)-১৫]"
+  },
+  {
+    "id": 36,
+    "question_text": "Choose the correct sentence. [বিচারকমণ্ডলী নিজেদের মধ্যে তর্ক করছেন]",
+    "options": [
+      "a) The jury are arguing among themselves.",
+      "b) The jury is arguing among themselves.",
+      "c) The jury has argued among themselves.",
+      "d) The jury has been arguing among themselves."
+    ],
+    "answer": "a",
+    "source": "[DU (A) 12-13] / [HSTU (E) 14-15]"
+  },
+  {
+    "id": 37,
+    "question_text": "The jury were divided in their opinions (মতামত). Here 'jury' is a - / The (audience) remains seated during the intermission (সিনেমা, নাটকের মধ্য বিরতি). Here 'audience' is a - ",
+    "options": [
+      "a) Proper noun",
+      "b) Collective noun",
+      "c) Common noun",
+      "d) Abstract noun"
+    ],
+    "answer": "b",
+    "source": "[RU 09-10] / [CU A 08-09]"
+  },
+  {
+    "id": 38,
+    "question_text": "'Water' is a - noun. / The word 'Gold' is a - noun.",
+    "options": ["a) proper", "b) common", "c) material", "d) abstract"],
+    "answer": "c",
+    "source": "[প্রত্নতত্ত্ব অধিদপ্তরের এস্টিমেটর-১৯] / [NSI-এর সাঁটমুদ্রাক্ষরিক-কাম-কম্পিউটার অপারেটর-১৭]"
+  },
+  {
+    "id": 39,
+    "question_text": "What type of the noun the word 'Rice' is? / 'Salt' কোন noun?",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Abstract noun",
+      "d) Material noun"
+    ],
+    "answer": "d",
+    "source": "[চলচ্চিত্র ও প্রকাশনা অধিদপ্তরের ক্যামেরাম্যান-১৯] / [প্রাথমিক প্রধান শিক্ষক-৯৪]"
+  },
+  {
+    "id": 40,
+    "question_text": "This necklace is made of gold' বাক্যে 'gold' শব্দটি - / 'This ring is made of gold.' বাক্যে gold শব্দটি কোন প্রকারের Noun?",
+    "options": [
+      "a) Collective noun",
+      "b) Common noun",
+      "c) Material noun",
+      "d) Abstract noun"
+    ],
+    "answer": "c",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (দাজলা)-১৩] / [প্রাথ: সহ: শিক্ষক-০৫, IU 10-11]"
+  },
+  {
+    "id": 41,
+    "question_text": "'Mutton' is a/an",
+    "options": [
+      "a) Common noun",
+      "b) Abstract Noun",
+      "c) Material noun",
+      "d) Proper noun"
+    ],
+    "answer": "c",
+    "source": "[38th BCS, JKKNIU (C) 18-19]"
+  },
+  {
+    "id": 42,
+    "question_text": "What type of noun the word 'Chemistry' is?",
+    "options": ["a) abstract", "b) material", "c) proper", "d) common"],
+    "answer": "a",
+    "source": "[DPE সহকারী শিক্ষক-১৮]"
+  },
+  {
+    "id": 43,
+    "question_text": "'Slave' শব্দটির Abstract Noun হবে -",
+    "options": ["a) Slavery", "b) Slave", "c) Slaverer", "d) Slaves"],
+    "answer": "a",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (শীতলক্ষ্যা)-১৩]"
+  },
+  {
+    "id": 44,
+    "question_text": "What kind of noun is 'honesty'?",
+    "options": ["a) Proper", "b) Common", "c) Abstract", "d) Collective"],
+    "answer": "c",
+    "source": "[গণপূর্ত অধিদপ্তরে উপসহকারী প্রকৌশলী (সিভিল)-১১, IU G 13-14, H 17-18]"
+  },
+  {
+    "id": 45,
+    "question_text": "Honesty is the best policy. এখানে honesty কোন noun?",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (শাপলা)-০৯, CU D 07-08, সোনালী ব্যাংক অফিসার-১৪, RU (A, জোড়) 14-15, BRUR (F) 14-15, ডাক বিভাগের মেইল অপারেটর-১৯]"
+  },
+  {
+    "id": 46,
+    "question_text": "Which type of noun 'beauty' is- / 'Beauty is truth' Here 'beauty' is - noun",
+    "options": ["a) Common", "b) Proper", "c) Collective", "d) Abstract"],
+    "answer": "d",
+    "source": "[শ্রম মন্ত্রণালয়ের রেজিস্ট্রার-০০, RU 05-06] / [৯ম শিক্ষক নিবন্ধন-১৪]"
+  },
+  {
+    "id": 47,
+    "question_text": "Wisdom is better than strength. এখানে strength শব্দটি-",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[প্রাথমিক প্রধান শিক্ষক-০৯, JU (B2) 13-14]"
+  },
+  {
+    "id": 48,
+    "question_text": "Without health there is no happiness. এখানে happiness শব্দটি-",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (সুরমা)-১০]"
+  },
+  {
+    "id": 49,
+    "question_text": "What kind of noun is 'Discipline'?",
+    "options": [
+      "a) Abstract noun",
+      "b) Collective noun",
+      "c) Proper noun",
+      "d) Common noun"
+    ],
+    "answer": "a",
+    "source": "[IU 06-07, DPE সহকারী লাইব্রেরিয়ান কাম ক্যাটাগার কাম হিসাবরক্ষক-১৮]"
+  },
+  {
+    "id": 50,
+    "question_text": "'Forgiveness is a great virtue.' বাক্যে forgiveness শব্দটি কোন প্রকারের noun?",
+    "options": [
+      "a) Proper Noun",
+      "b) Common Noun",
+      "c) Abstract Noun",
+      "d) Collective Noun"
+    ],
+    "answer": "c",
+    "source": "[প্রাথ: সহ: শিক্ষক-০৫]"
+  },
+  {
+    "id": 51,
+    "question_text": "The word 'Agency (এজেন্সি-প্রতিনিধিত্ব)' is a/an -",
+    "options": [
+      "a) Common noun",
+      "b) Collective noun",
+      "c) Proper noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[IU (চ) 10-11, JKKNIU (গ) 16-17]"
+  },
+  {
+    "id": 52,
+    "question_text": "'Truth must prevail in the long run.' বাক্যে 'Truth' শব্দটি কোন প্রকারের noun?",
+    "options": [
+      "a) Common noun",
+      "b) Proper noun",
+      "c) Abstract noun",
+      "d) Collective noun"
+    ],
+    "answer": "c",
+    "source": "[CU (H) 07-08, প্রাথমিক সহকারী শিক্ষক (বসন্ত, মুক্তিযোদ্ধা)-১০]"
+  },
+  {
+    "id": 53,
+    "question_text": "The soldiers were rewarded for their bravery. Which class of noun ‘bravery (ব্রেইভেরি)' belongs to?",
+    "options": [
+      "a) Collective noun",
+      "b) Common noun",
+      "c) Material noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[দুর্নীতি দমন ব্যুরোর পরিদর্শক-০৩, KU (BS) 10-11, বিভিন্ন মন্ত্রণালয়ের ব্যক্তিগত কর্মকর্তা-১৯]"
+  },
+  {
+    "id": 54,
+    "question_text": "What type of noun the word 'infancy' is?",
+    "options": ["a) Common", "b) Abstract", "c) Material", "d) Collective"],
+    "answer": "b",
+    "source": "[KU (জীববিজ্ঞান স্কুল) 16-17, প্রাথমিক সহকারী শিক্ষক-১৮]"
+  },
+  {
+    "id": 55,
+    "question_text": "Nelson is famous for his victory at Trafalgar.",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "d",
+    "source": "[দুর্নীতি দমন বুরোর সহকারী পরিদর্শক-০৪, RU 06-07]"
+  },
+  {
+    "id": 56,
+    "question_text": "He is a man of sound judgement. Here 'judgement' is",
+    "options": [
+      "a) common noun",
+      "b) abstract noun",
+      "c) collective noun",
+      "d) material noun"
+    ],
+    "answer": "b",
+    "source": "[মেকানিক্যাল এন্ড পাওয়ার ইঞ্জিনিয়ারিং-৯৯]"
+  },
+  {
+    "id": 57,
+    "question_text": "'Beggar' শব্দটির Abstract Form হবে -",
+    "options": [
+      "a) Beggarhood",
+      "b) Beggary",
+      "c) Beggarship",
+      "d) Beggarness"
+    ],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (সুরমা)-১০]"
+  },
+  {
+    "id": 58,
+    "question_text": "'Broad' শব্দটির Abstract Form হবে -",
+    "options": ["a) Breadth", "b) Broadness", "c) Broader", "d) Broadship"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (তিতাস)-১০]"
+  },
+  {
+    "id": 59,
+    "question_text": "What is the abstract noun form of 'Hero'?",
+    "options": ["a) Heroism", "b) Heroic", "c) Heroine", "d) Hero-like"],
+    "answer": "a",
+    "source": "[সোনালী ব্যাংক-১৪]"
+  },
+  {
+    "id": 60,
+    "question_text": "'King' শব্দটির abstract noun হচ্ছে -",
+    "options": ["a) Kingship", "b) King", "c) Kinghood", "d) Kingly"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক-১০]"
+  },
+  {
+    "id": 61,
+    "question_text": "Which one is an abstract noun?",
+    "options": ["a) Class", "b) Rice", "c) Intelligence", "d) Team"],
+    "answer": "c",
+    "source": "[-উপ-সহকারী প্রকৌশলী-১৯, মাধ্যমিক ও উচ্চ মাধ্যমিক অধিদপ্তরে অফিস সহকারী-২৩]"
+  },
+  {
+    "id": 62,
+    "question_text": "Which one is a material noun?",
+    "options": ["a) Group", "b) Meat", "c) Seriousness", "d) Party"],
+    "answer": "b",
+    "source": "[সড়ক পরিবহন ও সেতু মন্ত্রণালয়ের উপ-সহকারী প্রকৌশলী (যান্ত্রিক)-১৯]"
+  },
+  {
+    "id": 63,
+    "question_text": "What kind of noun is the word 'kindness'?",
+    "options": ["a) Proper", "b) Common", "c) Abstract", "d) Material"],
+    "answer": "c",
+    "source": "[সমবায় দপ্তরের দ্বিতীয় শ্রেণির গেজেটেড অফিসার-৯৭, থানা সহকারী শিক্ষা অফিসার-০৪, কারা তত্ত্বাবধায়ক-০৬, JU (H) 14-15, বিভিন্ন মন্ত্রণালয়ের সহকারী মেইনটেন্যান্স অফিসার-১৭, RU (E) 17-18]"
+  },
+  {
+    "id": 64,
+    "question_text": "Which of the following is not a collective noun?",
+    "options": [
+      "a) Navy (নেইভি)",
+      "b) Public",
+      "c) Love",
+      "d) Orchestra (ও°কিস্ট্রা-বাদকদল)"
+    ],
+    "answer": "c",
+    "source": "[সহকারী রাজস্ব কর্মকর্তা (মুক্তিযোদ্ধা ও ক্ষুদ্র নৃগোষ্ঠী)-১৫]"
+  },
+  {
+    "id": 65,
+    "question_text": "Which of the following is not a collective noun?",
+    "options": ["a) Class", "b) Audience", "c) Peer", "d) Public"],
+    "answer": "c",
+    "source": "[....জনপ্রশাসন মন্ত্রণালয়ের প্রশাসনিক কর্মকর্তা-১৫] / [IU (G) 16-17]"
+  },
+  {
+    "id": 66,
+    "question_text": "কোনটি Abstract noun?",
+    "options": ["a) Long", "b) Height (হাইট)", "c) Man", "d) Jury"],
+    "answer": "b",
+    "source": "[প্রাথ: সহ: শিক্ষক (ঢাকা)-০৬, প্রাক-প্রাথ সহ: শিক্ষক-১৩, পরিবার পরিকল্পনা পরিদর্শিকা প্রশিক্ষণার্থী-১৫]"
+  },
+  {
+    "id": 67,
+    "question_text": "কোনটি Collective Noun নয়?",
+    "options": ["a) Cattle (ক্যাটল)", "b) Police", "c) Audience", "d) City"],
+    "answer": "d",
+    "source": "[প্রাথমিক শিক্ষা অধিদপ্তরের হিসাব সহকারী-১৩]"
+  },
+  {
+    "id": 68,
+    "question_text": "Which of the following is abstract noun?",
+    "options": ["a) Childhood", "b) Child", "c) Boy", "d) Family"],
+    "answer": "a",
+    "source": "[RU রাষ্ট্রবিজ্ঞান 06-07, ঔষধ প্রশাসন অধিদপ্তরে অফিস সহকারী-২২]"
+  },
+  {
+    "id": 69,
+    "question_text": "Which one of the following is not a collective noun?",
+    "options": [
+      "a) basis (বেইসিস)",
+      "b) fleet",
+      "c) shoal (শৌল্)",
+      "d) crew (ক্রু)"
+    ],
+    "answer": "a",
+    "source": "[রেলওয়ের উপসহকারী পরিচালক-১৩]"
+  },
+  {
+    "id": 70,
+    "question_text": "কোনটি Collective Noun?",
+    "options": ["a) Books", "b) Girl", "c) Library", "d) Soldiers (সৌলজারস্)"],
+    "answer": "c",
+    "source": "[সরকারী প্রাথমিক সহকারী শিক্ষক (রাজশাহী)-০৬, প্রাথমিক সহকারী শিক্ষক (শীতলক্ষ্যা)-১৩]"
+  },
+  {
+    "id": 71,
+    "question_text": "কোনটি Common Noun?",
+    "options": ["a) March", "b) Class", "c) Jute", "d) Mouth"],
+    "answer": "d",
+    "source": "[প্রাথমিক সহকারী শিক্ষক-১১, প্রাথমিক সহকারী শিক্ষক (সুরমা)-১৩]"
+  },
+  {
+    "id": 72,
+    "question_text": "কোনটি Common Noun?",
+    "options": ["a) February", "b) Jute", "c) Month", "d) Class"],
+    "answer": "c",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (সুরমা)-১৩]"
+  },
+  {
+    "id": 73,
+    "question_text": "কোনটি Common Noun?",
+    "options": ["a) Starve", "b) Pirate", "c) Human", "d) Roguery (রৌগারি)"],
+    "answer": "b,c",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (বাগানবিলাস)-১২, JKKNIU (ঘ) 16-17]"
+  },
+  {
+    "id": 74,
+    "question_text": "কোনটি Abstract Noun?",
+    "options": ["a) City", "b) Boy", "c) Obey", "d) Humility"],
+    "answer": "d",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (বাগানবিলাস)-১২, স্বাস্থ্য অধিদপ্তরে অফিস সহায়ক-১৮]"
+  },
+  {
+    "id": 75,
+    "question_text": "Which one is a common noun?",
+    "options": ["a) Salt", "b) Army", "c) Studentship", "d) Infant"],
+    "answer": "d",
+    "source": "[পরিবারকল্যাণ পরিদর্শিকা প্রশিক্ষণার্থী-১০, BBS এর পরিসংখ্যান সহকারী-২০]"
+  },
+  {
+    "id": 76,
+    "question_text": "কোনটি Material Noun?",
+    "options": ["a) Wood", "b) Mouth", "c) Team", "d) Knife (নাইফ)"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (সুরমা)-১২]"
+  },
+  {
+    "id": 77,
+    "question_text": "কোনটি Collective Noun?",
+    "options": ["a) June", "b) Team", "c) Month", "d) Envelope"],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (সুরমা)-১২]"
+  },
+  {
+    "id": 78,
+    "question_text": "কোনটি Collective Noun?",
+    "options": ["a) Truth", "b) Harbour", "c) Bank", "d) Committee"],
+    "answer": "d",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (করতোয়া)-১২]"
+  },
+  {
+    "id": 79,
+    "question_text": "কোনটি Common Noun?",
+    "options": ["a) Pupils (পিউপলস্)", "b) Shamim", "c) Class", "d) Team"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (করতোয়া)-১২]"
+  },
+  {
+    "id": 80,
+    "question_text": "Which one is abstract noun?",
+    "options": ["a) Manhood", "b) Friend", "c) Fleet", "d) Anwar"],
+    "answer": "a",
+    "source": "[রেজি: প্রাথ:সহ: শিক্ষক (হাসনাহেনা)-১১, দুদকের ডাটা এন্ট্রি/কন্ট্রোল অপারেটর-২০]"
+  },
+  {
+    "id": 81,
+    "question_text": "কোনটি Common Noun?",
+    "options": ["a) Truth", "b) Bank", "c) Victory", "d) Length"],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (কর্ণফুলী)-১২, সোশ্যাল ডেভেলপমেন্ট ফাউন্ডেশনের ডাটা এন্ট্রি অফিসার-১২]"
+  },
+  {
+    "id": 82,
+    "question_text": "Which one is a collective noun?",
+    "options": [
+      "a) friendship",
+      "b) gang",
+      "c) doctor",
+      "d) honesty (অনেস্টি)"
+    ],
+    "answer": "b",
+    "source": "[৭ম প্রভাষক নিবন্ধন-১১]"
+  },
+  {
+    "id": 83,
+    "question_text": "কোনটি Collective Noun?",
+    "options": [
+      "a) Bashar",
+      "b) Class",
+      "c) Youth (ইয়ুথ)",
+      "d) Island (আইল্যান্ড)"
+    ],
+    "answer": "b",
+    "source": "[রেজিস্ট্রার্ড বেসরকারী প্রাথমিক সহকারী শিক্ষক (শিউলী)-১১]"
+  },
+  {
+    "id": 84,
+    "question_text": "কোনটি Material Noun?",
+    "options": ["a) Book", "b) Ring", "c) River", "d) Paper"],
+    "answer": "d",
+    "source": "[সর: প্রাথ: সহকারী শিক্ষক-০৬, রেজিঃ প্রাথ: সহকারী শিক্ষক (শিউলি)-১১, ইউনিয়ন সমাজকর্মী-১৬]"
+  },
+  {
+    "id": 85,
+    "question_text": "Which one is an abstract noun?",
+    "options": [
+      "a) Children",
+      "b) Honesty",
+      "c) Flock (ফ্লক্)",
+      "d) Cattle (ক্যাটল্)"
+    ],
+    "answer": "b",
+    "source": "[৬ষ্ঠ প্রভাষক নিবন্ধন-১০]"
+  },
+  {
+    "id": 86,
+    "question_text": "Which one is abstract noun?",
+    "options": ["a) boy", "b) child (চাইল্ড)", "c) Childhood", "d) family"],
+    "answer": "c",
+    "source": "[PSTU (A) 06-07, RU (রাষ্ট্রবিজ্ঞান) 06-07, বাংলাদেশ কৃষি ব্যাংক-১২]"
+  },
+  {
+    "id": 87,
+    "question_text": "Which of the following is a proper noun?",
+    "options": ["a) Man", "b) Group", "c) Run", "d) Dhaka"],
+    "answer": "d",
+    "source": "[কর্মসংস্থান ব্যাংক (সহকারী অফিসার, সাধারণ/ক্যাশ)-১২]"
+  },
+  {
+    "id": 88,
+    "question_text": "The jury found the prisoner guilty. (বিচারকমণ্ডলী কারাবন্দী/কয়েদিকে দোষী সাব্যস্ত করলো) এখানে jury শব্দটি কোন প্রকারের Noun?",
+    "options": ["a) Proper", "b) Collective", "c) Common", "d) Abstract"],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (তিতাস)-১০, COU (B) 12-13, জুনিয়র অডিটর-১৪]"
+  },
+  {
+    "id": 89,
+    "question_text": "What class of noun 'bravery (ব্রেইভেরি)' belongs to-",
+    "options": ["a) collective", "b) common", "c) material", "d) abstract"],
+    "answer": "d",
+    "source": "[দুর্নীতি দমন ব্যুরোর উপ-সহকারী পরিদর্শক-০৮]"
+  },
+  {
+    "id": 90,
+    "question_text": "Which of the following is not a common noun?",
+    "options": ["a) man", "b) village", "c) Chittagong", "d) river"],
+    "answer": "c",
+    "source": "[সোশাল ইসলামী ব্যাংক-০৪]"
+  },
+  {
+    "id": 91,
+    "question_text": "Which one is in abstract sense?",
+    "options": ["a) Monument", "b) Tower", "c) Brat (ছোকরা)", "d) Passion"],
+    "answer": "d",
+    "source": "[উপজেলা পরিসংখ্যান কর্মকর্তা-১০]"
+  },
+  {
+    "id": 92,
+    "question_text": "Which of the following is NOT an abstract noun?",
+    "options": [
+      "a) Goodness (সম্পূণ)",
+      "b) Family",
+      "c) Bravery (সাহস)",
+      "d) Childhood"
+    ],
+    "answer": "b",
+    "source": "[DU (B) 17-18]"
+  },
+  {
+    "id": 93,
+    "question_text": "What type of noun 'freedom (স্বাধীনতা, মুক্তি)' is?",
+    "options": ["a) proper", "b) abstract", "c) collective", "d) common"],
+    "answer": "b",
+    "source": "[গণপূর্ত অধিদপ্তরের উপসহকারী প্রকৌশলী (সিভিল)-১৭]"
+  },
+  {
+    "id": 94,
+    "question_text": "What kind of noun is 'An army'?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "c",
+    "source": "[পাসপোর্ট ও ইমিগ্রেশনের সহকারী পরিচালক-০৭]"
+  },
+  {
+    "id": 95,
+    "question_text": "Find out the common noun.",
+    "options": ["a) Flock (ফ্লক্)", "b) Bunch", "c) City", "d) Dhaka"],
+    "answer": "c",
+    "source": "[RU (A3-odd) 12-13]"
+  },
+  {
+    "id": 96,
+    "question_text": "Which group of words are collective nouns?",
+    "options": [
+      "a) Unity, Poverty",
+      "b) Cattle, Army",
+      "c) Team, Steel",
+      "d) Milk, Water"
+    ],
+    "answer": "b",
+    "source": "[DPEO-93, BSMRUST (E) 12-13]"
+  },
+  {
+    "id": 97,
+    "question_text": "Which one is correct?",
+    "options": [
+      "a) Kazi Nazrul Islam is the Shelley of Bangladesh",
+      "b) Kazi Nazrul Islam is the Shelley of the Bangladesh",
+      "c) Kazi Nazrul Islam is a Shelley of Bangladesh",
+      "d) Kazi Nazrul Islam is a Shelley of the Bangladesh"
+    ],
+    "answer": "a",
+    "source": "[স্বরাষ্ট্র মন্ত্রণালয়ের প্রশাসনিক কর্মকর্তা ও কারা তত্ত্বাধায়ক-০৬]"
+  },
+  {
+    "id": 98,
+    "question_text": "Nazrul is the Byron of Bangladesh. The underlined word is used as -",
+    "options": [
+      "a) Proper Noun",
+      "b) Common Noun",
+      "c) Material Noun",
+      "d) Abstract Noun"
+    ],
+    "answer": "b",
+    "source": "[সহকারী পরিচালক (হিসাবরক্ষণ) বাংলাদেশ টিএন্ডটি বোর্ড-৯৫, CU (F) 12-13]"
+  },
+  {
+    "id": 99,
+    "question_text": "The charity of Hatem Tai is known to all. The underlined word is- / The charity of Hatem Tai is known to all. The word 'charity' is-",
+    "options": [
+      "a) material noun",
+      "b) common noun",
+      "c) abstract noun",
+      "d) collective noun"
+    ],
+    "answer": "b",
+    "source": "[HSTU (D) 14-15] / [সহ: থানা শিক্ষা অফিসার-১০]"
+  },
+  {
+    "id": 100,
+    "question_text": "They praised the honesty of the girl. Here the underlined word is a/an-",
+    "options": [
+      "a) material noun",
+      "b) abstract noun",
+      "c) common noun",
+      "d) proper noun"
+    ],
+    "answer": "c",
+    "source": "[বিআরটিএ'র মোটরযান পরিদর্শক-১৭]"
+  },
+  {
+    "id": 101,
+    "question_text": "He is a justice of the High Court. Here ‘justice' is a/an- noun.",
+    "options": ["a) abstract", "b) material", "c) proper", "d) common"],
+    "answer": "d",
+    "source": "[৭ম শিক্ষক নিবন্ধন-১১]"
+  },
+  {
+    "id": 102,
+    "question_text": "Drive the nail into the table. এখানে nail শব্দটি কোন প্রকারের noun?",
+    "options": ["a) Proper", "b) Common", "c) Collective", "d) Material"],
+    "answer": "b",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (পদ্ম)-০৯] / [IU B 16-17]"
+  },
+  {
+    "id": 103,
+    "question_text": "The rice of Dinajpur is fine. The underlined 'rice' in the sentence is a",
+    "options": [
+      "a) proper noun",
+      "b) common noun",
+      "c) collective noun",
+      "d) abstract noun"
+    ],
+    "answer": "b",
+    "source": "[HSTU B 15-16]"
+  },
+  {
+    "id": 104,
+    "question_text": "Our class consists of twenty public. Here 'public' is an example of -",
+    "options": [
+      "a) Common noun",
+      "b) Proper noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "a",
+    "source": "[JU 09-10]"
+  },
+  {
+    "id": 105,
+    "question_text": "There are ten classes in our school. What kind of noun is the word 'class'",
+    "options": [
+      "a) abstract noun",
+      "b) common noun",
+      "c) collective noun",
+      "d) noun of multitude"
+    ],
+    "answer": "b",
+    "source": "[KUET 06-07]"
+  },
+  {
+    "id": 106,
+    "question_text": "Which one of the following is an example of proper noun?",
+    "options": ["a) The police", "b) Car", "c) Bangladesh", "d) Family"],
+    "answer": "c",
+    "source": "[উপজেলা/আরবান প্রোগ্রাম কো-অর্ডিনেটর-২০]"
+  },
+  {
+    "id": 107,
+    "question_text": "Which of the following nouns is not a proper noun?",
+    "options": ["a) Team", "b) Dhaka", "c) Sunday", "d) Kabir"],
+    "answer": "a",
+    "source": "[দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয়ের অডিটর-১৯]"
+  },
+  {
+    "id": 108,
+    "question_text": "A noun referring to things that our five senses can't detect is called:",
+    "options": [
+      "a) proper noun",
+      "b) common noun",
+      "c) material noun",
+      "d) abstract noun"
+    ],
+    "answer": "d",
+    "source": "[সমাজসেবা অধিদপ্তরের অফিস সহকারী কাম কম্পিউটার মুদ্রাক্ষরিক-১৮]"
+  },
+  {
+    "id": 109,
+    "question_text": "Which of the following is close to 'archipelago' in meaning",
+    "options": [
+      "a) A group of archives",
+      "b) Archeological sites",
+      "c) A group of islands",
+      "d) Arch of a building"
+    ],
+    "answer": "c",
+    "source": "[ডাক অধিদপ্তরের এস্টিমেটর-১৮]"
+  },
+  {
+    "id": 110,
+    "question_text": "What kind of noun is 'committee'?",
+    "options": ["a) abstract", "b) proper", "c) collective", "d) common"],
+    "answer": "c",
+    "source": "[গণপূর্ত অধিদপ্তরের উপ-সহকারী প্রকৌশলী (সিভিল)-১৮]"
+  },
+  {
+    "id": 111,
+    "question_text": "কোনটি Abstract noun?",
+    "options": ["a) Long", "b) Height (হাইট)", "c) Man", "d) Jury"],
+    "answer": "b",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (বুড়িগঙ্গা)-১৩, পরিবার পরিকল্পনা পরিদর্শিকা প্রশিক্ষণার্থী-১৫]"
+  },
+  {
+    "id": 112,
+    "question_text": "নিচের কোনটি Abstract Noun এর উদাহরণ? / Which of the following is abstract noun?",
+    "options": ["a) Child", "b) Boy", "c) Family", "d) Childhood"],
+    "answer": "d",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (জবা)-০৯] / [RU 06-07, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তরের উচ্চমান সহকারী-১৩]"
+  },
+  {
+    "id": 113,
+    "question_text": "Would you like to have – tea?",
+    "options": ["a) a little", "b) any", "c) some", "d) a cup of"],
+    "answer": "d",
+    "source": "[মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের সহকারী পরিচালক-১৩]"
+  },
+  {
+    "id": 114,
+    "question_text": "নিম্নের কোনটি Abstract noun নয়?",
+    "options": ["a) air", "b) goodwill", "c) flavour", "d) water"],
+    "answer": "a,d",
+    "source": "[কন্ট্রোলার জেনারেল ডিফেন্স ফাইনান্স এর অধীন জুনিয়র অডিটর-১৪]"
+  },
+  {
+    "id": 115,
+    "question_text": "Iron is a useful metal. এখানে ‘Iron' শব্দটি কোন প্রকারের Noun?",
+    "options": [
+      "a) Proper Noun",
+      "b) Material Noun",
+      "c) Collective Noun",
+      "d) Common Noun"
+    ],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (সিলেট)-০৬]"
+  },
+  {
+    "id": 116,
+    "question_text": "‘Ali saw a flock of sheep.' বাক্যে ‘flock' শব্দটি / 'I saw a flock of sheep.' বাক্যে 'flock' শব্দটি কোন প্রকারের noun?",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Material noun"
+    ],
+    "answer": "c",
+    "source": "[প্রাক-প্রাথমিক সহকারী শিক্ষক (ঝিলাম)-১৩] / [প্রাথমিক সহকারী শিক্ষক (বরিশাল)-০৬]"
+  },
+  {
+    "id": 117,
+    "question_text": "Our team is better than yours.' Here 'team' is- / ‘Our team is better than yours.' বাক্যে ‘Team' শব্দটি কোন প্রকারের Noun?",
+    "options": [
+      "a) Common Noun",
+      "b) Collective Noun",
+      "c) Material Noun",
+      "d) Material Noun"
+    ],
+    "answer": "b",
+    "source": "[ডাক অধিদপ্তরের হিসাব সহকারী/অফিস সহকারী-২২] / [প্রাথ: সহ: শিক্ষক (হেমন্ত)-১০]"
+  },
+  {
+    "id": 118,
+    "question_text": "Which group of words are Collective nouns?",
+    "options": [
+      "a) Sajib, America",
+      "b) Water, Milk, Steel",
+      "c) Cattle, Army, Class",
+      "d) Unity, Health, Poverty"
+    ],
+    "answer": "c",
+    "source": "[উপজেলা সমাজসেবা অফিসার-০৮]"
+  },
+  {
+    "id": 119,
+    "question_text": "'Flock' is a –",
+    "options": [
+      "a) Proper noun",
+      "b) Common noun",
+      "c) Collective noun",
+      "d) Abstract noun"
+    ],
+    "answer": "c",
+    "source": "[RU (লোকপ্রশাসন) 09-10, বিভিন্ন মন্ত্রণালয়/বিভাগ/অধিদপ্তরের ব্যক্তিগত কর্মকর্তা (সাধারণ)-১৮]"
+  },
+  {
+    "id": 120,
+    "question_text": "কোনটি Abstract Noun?",
+    "options": ["a) Elephant", "b) Harbour", "c) Strength", "d) Dhaka"],
+    "answer": "c",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (কর্ণফুলী)-১২]"
+  },
+  {
+    "id": 121,
+    "question_text": "কোনটি Abstract Noun?",
+    "options": ["a) Agency", "b) Infant", "c) Anxious", "d) Grand"],
+    "answer": "a",
+    "source": "[প্রাথমিক প্রধান শিক্ষক (ক্রিসানথিমাম)-১২]"
+  },
+  {
+    "id": 122,
+    "question_text": "কোনটি Collective Noun?",
+    "options": ["a) Boy", "b) Books", "c) Library", "d) Mouth"],
+    "answer": "c",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (শীতলক্ষ্যা)-১৩]"
+  },
+  {
+    "id": 123,
+    "question_text": "Abstract noun of the word 'Long' is ---",
+    "options": ["a) Length", "b) Longer", "c) Lengthier", "d) Lengthen"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক-০৫, (কংস)-০৮]"
+  },
+  {
+    "id": 124,
+    "question_text": "The best word stands for Abstract noun is-",
+    "options": ["a) Beauty", "b) Boat", "c) Sail", "d) Bird"],
+    "answer": "a",
+    "source": "[তথ্য মন্ত্রণালয়ের অধীনে সহকারী পরিচালক-০৪]"
+  },
+  {
+    "id": 125,
+    "question_text": "What kind of noun is 'journey'?",
+    "options": ["a) common", "b) collective", "c) proper", "d) abstract"],
+    "answer": "a",
+    "source": "[RU 09-10]"
+  },
+  {
+    "id": 126,
+    "question_text": "Find the collective noun from the following:",
+    "options": ["a) Water", "b) Cow", "c) Kindness", "d) Army"],
+    "answer": "d",
+    "source": "[COU (A) 13-14, JKKNIU (ক) 14-15]"
+  },
+  {
+    "id": 127,
+    "question_text": "Which of the following words is not similar to ‘school'?",
+    "options": ["a) flock (ফ্লক্)", "b) herd (হাড্)", "c) college", "d) pack"],
+    "answer": "c",
+    "source": "[IU (5) 10-11, (BBA) 15-16]"
+  },
+  {
+    "id": 128,
+    "question_text": "Which one of the following is a common noun?",
+    "options": ["a) pirate", "b) humility", "c) roguery", "d) straw"],
+    "answer": "a",
+    "source": "[JKKNIU (ঘ) 16-17]"
+  },
+  {
+    "id": 129,
+    "question_text": "Water has no colour of its own. What type of noun the underlined word is? / Diamond is a precious metal. Which class of noun 'Diamond' belongs to'?",
+    "options": ["a) Common", "b) Abstract", "c) Proper", "d) Material"],
+    "answer": "d",
+    "source": "[JU H 17-18] / [IU 06-07]"
+  },
+  {
+    "id": 130,
+    "question_text": "What kind of noun is 'Infant'?",
+    "options": ["a) Proper", "b) Common", "c) Material", "d) Collective"],
+    "answer": "b",
+    "source": "[BRUR (B) 16-17]"
+  },
+  {
+    "id": 131,
+    "question_text": "The word 'hatred (হেইট্রিড্-ঘৃণা)' is _ noun.",
+    "options": [
+      "a) an abstract",
+      "b) a proper",
+      "c) a collective",
+      "d) a material"
+    ],
+    "answer": "a",
+    "source": "[COU (A) 16-17]"
+  },
+  {
+    "id": 132,
+    "question_text": "'Love', 'courage' and 'childhood' are examples of-",
+    "options": [
+      "a) proper nouns",
+      "b) abstract nouns",
+      "c) countable nouns",
+      "d) common nouns"
+    ],
+    "answer": "b",
+    "source": "[BRUR (F) 15-16, SUST (B) 15-16]"
+  },
+  {
+    "id": 133,
+    "question_text": "Which noun below is a collective noun?",
+    "options": ["a) men", "b) duck", "c) family", "d) children"],
+    "answer": "c",
+    "source": "[BSMRSTU (G) 16-17]"
+  },
+  {
+    "id": 134,
+    "question_text": "An enormous _ of locusts ate all of the crops.",
+    "options": [
+      "a) swarm",
+      "b) bunch (বান্‌চ্)",
+      "c) herd (হাড্)",
+      "d) bevy",
+      "e) school"
+    ],
+    "answer": "a",
+    "source": "[CU (A) 16-17]"
+  },
+  {
+    "id": 135,
+    "question_text": "A- of banknotes. (টাকার গাঁট)",
+    "options": ["a) bunch (বান্‌চ্)", "b) wad", "c) batch", "d) group"],
+    "answer": "b",
+    "source": "[JU (C2) 15-16]"
+  },
+  {
+    "id": 136,
+    "question_text": "A - of fish. (মাছের ঝাঁক)",
+    "options": ["a) flock", "b) group", "c) school", "d) fleet"],
+    "answer": "c",
+    "source": "[JU (C2) 15-16]"
+  },
+  {
+    "id": 137,
+    "question_text": "Which of the following is an abstract noun?",
+    "options": ["a) People", "b) Honesty", "c) Flock (ফ্লক্)", "d) Sugar"],
+    "answer": "b",
+    "source": "[JUST (B) 12-13]"
+  },
+  {
+    "id": 138,
+    "question_text": "Which is not proper noun?",
+    "options": ["a) Sun", "b) Karim", "c) River", "d) Padma"],
+    "answer": "c",
+    "source": "[RU (সমাজবিজ্ঞান) 07-08]"
+  },
+  {
+    "id": 139,
+    "question_text": "Paper, water, iron, gold and milk are –",
+    "options": [
+      "a) Abstract nouns",
+      "b) Common nouns",
+      "c) Collective nouns",
+      "d) Material nouns"
+    ],
+    "answer": "d",
+    "source": "[RU (ভূগোল) 05-06]"
+  },
+  {
+    "id": 140,
+    "question_text": "What kind of noun the following words belongs to 'love, affection'?",
+    "options": ["a) Abstract", "b) Common", "c) Material", "d) Collective"],
+    "answer": "a",
+    "source": "[IU 06-07]"
+  },
+  {
+    "id": 141,
+    "question_text": "What kind of noun is 'money (অর্থ)'?",
+    "options": [
+      "a) collective",
+      "b) abstract",
+      "c) countable",
+      "d) uncountable"
+    ],
+    "answer": "d",
+    "source": "[IU (H) 14-15, শিক্ষা প্রকৌশল অধিদপ্তরের সহকারী প্রকৌশলী (পুর)-১৯]"
+  },
+  {
+    "id": 142,
+    "question_text": "Which of the following is an uncountable noun?",
+    "options": ["a) Pen", "b) Shirt", "c) Book", "d) Food"],
+    "answer": "d",
+    "source": "[কারা অধিদপ্তরের কারা তত্ত্বাবধায়ক-১৩]"
+  },
+  {
+    "id": 143,
+    "question_text": "What kind of noun is 'fun'?",
+    "options": ["a) Uncountable", "b) Countable", "c) Common", "d) Material"],
+    "answer": "a",
+    "source": "[পরিবেশ অধিদপ্তরের সহকারী পরিচালক-১১]"
+  },
+  {
+    "id": 144,
+    "question_text": "Which of the following words does fall under uncountable noun?",
+    "options": ["a) Star", "b) Rice", "c) Field", "d) Foe (ফৌ, শত্রু)"],
+    "answer": "b",
+    "source": "[SUST 08-09]"
+  },
+  {
+    "id": 145,
+    "question_text": "The building is built of stone. The underlined word is:",
+    "options": [
+      "a) Countable noun",
+      "b) Adjective",
+      "c) Proper noun",
+      "d) Uncountable noun"
+    ],
+    "answer": "d",
+    "source": "[KU (S) 14-15]"
+  },
+  {
+    "id": 146,
+    "question_text": "Which one of the following is not an uncountable noun?",
+    "options": [
+      "a) scenery (ছিনারি)",
+      "b) work",
+      "c) luggage(লাগেজ)",
+      "d) student"
+    ],
+    "answer": "d",
+    "source": "[KU (BBA) 11-12]"
+  },
+  {
+    "id": 147,
+    "question_text": "I prefer chicken to beef. Here underlined word is-",
+    "options": [
+      "a) countable noun",
+      "b) proper noun",
+      "c) abstract noun",
+      "d) uncountable noun"
+    ],
+    "answer": "d",
+    "source": "[PUST (A1) 15-16]"
+  },
+  {
+    "id": 148,
+    "question_text": "Advertising is -",
+    "options": [
+      "a) Count noun",
+      "b) adjective",
+      "c) verb",
+      "d) Non-count noun"
+    ],
+    "answer": "d",
+    "source": "[RU (গণযোগাযোগ ও সাংবাদিকতা) 08-09]"
+  },
+  {
+    "id": 149,
+    "question_text": "It is very difficult to find a – in this country at present.",
+    "options": ["a) work", "b) career", "c) profession", "d) job"],
+    "answer": "d",
+    "source": "[BRDB এর পল্লী উন্নয়ন কর্মকর্তা-১৩] / [পুবালী ব্যাংক (JO)-০০]"
+  },
+  {
+    "id": 150,
+    "question_text": "I need - soap to wash my dress with.",
+    "options": ["a) any", "b) a piece of", "c) a", "d) much"],
+    "answer": "b",
+    "source": "[DU D 02-03, COU C 07-08, বিদ্যুৎ উন্নয়ন বোর্ডের সহ: পরিচালক-১৩]"
+  },
+  {
+    "id": 151,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) He bought some soaps yesterday.",
+      "b) He bought a bar of soap yesterday.",
+      "c) He has bought a soap yesterday.",
+      "d) He bought a soap yesterday."
+    ],
+    "answer": "b",
+    "source": "[COU (B) 09-10, NU (মানবিক) 10-11, PUST (B) 17-18]"
+  },
+  {
+    "id": 152,
+    "question_text": "Find out the correct sentence.",
+    "options": [
+      "a) I shall buy two breads.",
+      "b) I shall buy two loaves of breads.",
+      "c) I shall buy two bread.",
+      "d) I shall buy two pieces of bread."
+    ],
+    "answer": "d",
+    "source": "[উপজেলা মহিলা বিষয়ক কর্মকর্তা-১৬]"
+  },
+  {
+    "id": 153,
+    "question_text": "Hybrids have one more _ per plant than the other varieties.",
+    "options": ["a) corns", "b) ear of corn", "c) corn ears", "d) corn's ears"],
+    "answer": "b",
+    "source": "[প্রিমিয়ার ব্যাংক-০৩]"
+  },
+  {
+    "id": 154,
+    "question_text": "Identify the determiner in the sentence 'Bring me that book'.",
+    "options": ["a) Bring", "b) me", "c) that", "d) book"],
+    "answer": "c",
+    "source": "[42nd BCS]"
+  },
+  {
+    "id": 155,
+    "question_text": "Identify the determiner in the sentence: 'I have no news for you.'",
+    "options": ["a) have", "b) news", "c) no", "d) for"],
+    "answer": "c",
+    "source": "[40th BCS]"
+  },
+  {
+    "id": 156,
+    "question_text": "Which word is the determiner in the sentence 'Will it take much time?'",
+    "options": ["a) will", "b) take", "c) much", "d) time"],
+    "answer": "c",
+    "source": "[35th BCS, IU (C, H) 15-16, বিভিন্ন অধিদপ্তরের ব্যক্তিগত কর্মকর্তা-১৮]"
+  },
+  {
+    "id": 157,
+    "question_text": "My reading room displays a beautiful painting of S M Sultan. Here the word 'my' is",
+    "options": [
+      "a) a possessive determiner",
+      "b) a discarding determiner",
+      "c) an adjective determiner",
+      "d) none of these"
+    ],
+    "answer": "a",
+    "source": "[BSMRSTU (G, Law) 16-17]"
+  },
+  {
+    "id": 158,
+    "question_text": "all, another, any, both, each, either are ---",
+    "options": [
+      "a) Demonstrative determiners",
+      "b) General determiners",
+      "c) Possessive determiners",
+      "d) adverbials"
+    ],
+    "answer": "b",
+    "source": "[IU (B) 13-14]"
+  },
+  {
+    "id": 159,
+    "question_text": "All the four pens are missing. Here 'all the four' is -",
+    "options": [
+      "a) Noun, adjective",
+      "b) Adjective",
+      "c) Determiners",
+      "d) Participle Phrase"
+    ],
+    "answer": "c",
+    "source": "[RU (রাষ্ট্রবিজ্ঞান) 07-08]"
+  },
+  {
+    "id": 160,
+    "question_text": "- returned the library books in time.",
+    "options": [
+      "a) Most of boys",
+      "b) Most of the boys",
+      "c) The many of the boys",
+      "d) The most boys"
+    ],
+    "answer": "b",
+    "source": "[CU (B1) 15-16]"
+  },
+  {
+    "id": 161,
+    "question_text": "- kept in the bank. (তার সব টাকা ব্যাংকে রাখা হয়)",
+    "options": [
+      "a) All his money are",
+      "b) His all money are",
+      "c) His all money is",
+      "d) All his money is"
+    ],
+    "answer": "d",
+    "source": "[CU (ঘ) 08-09]"
+  },
+  {
+    "id": 162,
+    "question_text": "Fill in the blank. '- students from different districts have come to take part in the admission test.'",
+    "options": [
+      "a) A large amount",
+      "b) A large number",
+      "c) A large number of",
+      "d) A huge amount of"
+    ],
+    "answer": "c",
+    "source": "[BSMRSTU (G) 16-17]"
+  },
+  {
+    "id": 163,
+    "question_text": "There are - students in class today than there were yesterday.",
+    "options": ["a) less", "b) a few", "c) a little", "d) fewer"],
+    "answer": "d",
+    "source": "[MBSTU C 19-20]"
+  },
+  {
+    "id": 164,
+    "question_text": "- amazing song haunted me for a long time.",
+    "options": ["a) These", "b) Those", "c) Thus", "d) That"],
+    "answer": "d",
+    "source": "[35th BCS, JKKNIU (ঘ) 16-17]"
+  },
+  {
+    "id": 165,
+    "question_text": "He is lazy. He never does – work.",
+    "options": ["a) some", "b) any", "c) no", "d) none"],
+    "answer": "b",
+    "source": "[বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ডের সহকারী সচিব/সহকারী পরিচালক (প্রশাসন)-১৬]"
+  },
+  {
+    "id": 166,
+    "question_text": "------ in this display is on sale.",
+    "options": [
+      "a) Each furnitures",
+      "b) Each pieces of furniture",
+      "c) Each piece of furniture",
+      "d) Each furniture"
+    ],
+    "answer": "c",
+    "source": "[কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর উপ-পরিচালক-০৭, BSMRSTU (E) 19-20]"
+  },
+  {
+    "id": 167,
+    "question_text": "Before we can decide on the future use of this drug -----.",
+    "options": [
+      "a) many more informations must be reviewed",
+      "b) is necessary to review more information",
+      "c) we must review much more information",
+      "d) another information must to be reviewed"
+    ],
+    "answer": "c",
+    "source": "[IU (B) 12-13, JnU (A) 13-14] / সাব-রেজিস্ট্রার-০১ Ref: Cliffs TOEFL"
+  },
+  {
+    "id": 168,
+    "question_text": "Choose the sentence with appropriate use of 'some'",
+    "options": [
+      "a) I want to buy some new shoe.",
+      "b) Would you like to buy some apples?",
+      "c) Rana has listened to some music.",
+      "d) He has bought some piece of cheese."
+    ],
+    "answer": "b",
+    "source": "[BEZA এর সহকারী ব্যবস্থাপক-২০]"
+  },
+  {
+    "id": 169,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) My friend has got brown eye.",
+      "b) My friend is going to buy some new furniture.",
+      "c) She has got short black hairs.",
+      "d) He is going to buy some new chair."
+    ],
+    "answer": "b",
+    "source": "[BEZA এর সহকারী ব্যবস্থাপক-২০]"
+  },
+  {
+    "id": 170,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) No fewer than fifty students were present.",
+      "b) No lesser than fifty students were present.",
+      "c) No smaller than fifty students were present",
+      "d) No less than fifty students were present."
+    ],
+    "answer": "a",
+    "source": "[বিদুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়ের নিরাপত্তা কর্মকর্তা-১৯]"
+  },
+  {
+    "id": 171,
+    "question_text": "He gave me some good ----- (সে আমাকে কিছু ভালো উপদেশ দিল)",
+    "options": ["a) advice", "b) advises", "c) advices", "d) advising"],
+    "answer": "a",
+    "source": "[JnU (D) 16-17]"
+  },
+  {
+    "id": 172,
+    "question_text": "The woman is carrying a - of clothes.",
+    "options": ["a) sheet", "b) bunch", "c) bundle", "d) block"],
+    "answer": "c",
+    "source": "[JnU (B) 09-10]"
+  },
+  {
+    "id": 173,
+    "question_text": "Put two — of salt in the saucepan.",
+    "options": ["a) mouthsful", "b) mouthful", "c) spoonfuls", "d) spoonful"],
+    "answer": "c",
+    "source": "[JnU (B) 09-10]"
+  },
+  {
+    "id": 174,
+    "question_text": "The man is carrying a – of cement.",
+    "options": ["a) sack", "b) mouthful", "c) reel", "d) bunch"],
+    "answer": "a",
+    "source": "[JnU (B) 09-10]"
+  },
+  {
+    "id": 175,
+    "question_text": "The --- of the office will be sold.",
+    "options": [
+      "a) furniture",
+      "b) the furnitures",
+      "c) piece of furniture",
+      "d) pieces of furnitures"
+    ],
+    "answer": "a",
+    "source": "[DU (D) 02-03, SESIP সহকারী থানা মাধ্যমিক শিক্ষা কর্মকর্তা-১৫]"
+  },
+  {
+    "id": 176,
+    "question_text": "Nasrin is an interior decorator, designs -------",
+    "options": [
+      "a) furniture",
+      "b) the furniture",
+      "c) furnitutre's",
+      "d) some furniture"
+    ],
+    "answer": "a",
+    "source": "[DU (D) 00-01]"
+  },
+  {
+    "id": 177,
+    "question_text": "It is time I had my – cut. (এখনই আমার চুল কাটানোর সময়)",
+    "options": [
+      "a) all the hairs",
+      "b) hair",
+      "c) all hairs",
+      "d) the hairs",
+      "e) hairs"
+    ],
+    "answer": "b",
+    "source": "[CU (C₁) 12-13]"
+  },
+  {
+    "id": 178,
+    "question_text": "- is not the only things that tourists want to see.",
+    "options": [
+      "a) A scenery",
+      "b) Sceneries",
+      "c) the sceneries",
+      "d) Scenery"
+    ],
+    "answer": "d",
+    "source": "[24th BCS, সমাজকল্যাণ সংগঠন-০৭, বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড এর সহকারী পরিচালক (প্রশাসন)-১৩]"
+  },
+  {
+    "id": 179,
+    "question_text": "This building is made of ------- (বাড়িটি ইট-সিমেন্টে তৈরী)",
+    "options": [
+      "a) bricks and cement",
+      "b) brick (ইট) and cement",
+      "c) glasses and bricks",
+      "d) iron and glasses"
+    ],
+    "answer": "b (TG)",
+    "source": "[RU (B-Law) 12-13]"
+  },
+  {
+    "id": 180,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) We have many works to do in summer",
+      "b) We have much works to do in summer",
+      "c) We have a lot of work to do in summer",
+      "d) We have lot of works to do in summer",
+      "e) We have many a lot of works to do in summer"
+    ],
+    "answer": "c",
+    "source": "[PSC এর সহকারী পরিচালক-০৬, DU (C) 11-12]"
+  },
+  {
+    "id": 181,
+    "question_text": "There is – water/milk in the glass. / She wants to satisfy her thirst. But there is – water in the glass.",
+    "options": ["a) a little", "b) a big amount", "c) much", "d) small"],
+    "answer": "a",
+    "source": "[RU (F-অবিজ্ঞান) 15-16, প্রাথমিক সহকারী শিক্ষক (১ম পর্যায়)-১৯] / [CU (B2.6) 14-15]"
+  },
+  {
+    "id": 182,
+    "question_text": "Tamara speaks very – Russian, but she knows – words.",
+    "options": [
+      "a) little, a little",
+      "b) little, a few",
+      "c) few, little",
+      "d) a few, few"
+    ],
+    "answer": "b",
+    "source": "[IU (B) 11-12]"
+  },
+  {
+    "id": 183,
+    "question_text": "I have got – friends, so I am not lonely.",
+    "options": ["a) a little", "b) little", "c) few", "d) fewer", "e) a few"],
+    "answer": "e",
+    "source": "[CU (B) 11-12]"
+  },
+  {
+    "id": 184,
+    "question_text": "The glass on the table contains – water.",
+    "options": ["a) a little", "b) a few", "c) many", "d) several"],
+    "answer": "a",
+    "source": "[NU (বাণিজ্য) 06-07]"
+  },
+  {
+    "id": 185,
+    "question_text": "I would like – salt in my vegetables. (আমার সবজিতে আমি একটু লবণ চাই)",
+    "options": ["a) few", "b) a few", "c) a little", "d) many"],
+    "answer": "c",
+    "source": "[CU (D) 11-12]"
+  },
+  {
+    "id": 186,
+    "question_text": "Choose the correct translation of: “There is a little milk in the cup.”",
+    "options": [
+      "a) পেয়ালায় অল্প দুধ আছে।",
+      "b) পেয়ালায় দুধ নেই বললেই চলে।",
+      "c) পেয়ালায় একটুখানি দুধ নেই।",
+      "d) পেয়ালায় একটুখানি দুধ নেই।"
+    ],
+    "answer": "a",
+    "source": "[৭ম প্রভাষক নিবন্ধন-১১]"
+  },
+  {
+    "id": 187,
+    "question_text": "Which one of the following is the correct meaning of 'a few'?",
+    "options": [
+      "a) Not many, hardly any",
+      "b) Not many, but all there are",
+      "c) Some",
+      "d) Not much"
+    ],
+    "answer": "c",
+    "source": "[RU (Law) 04-05, সাব-রেজিস্ট্রার-৯২]"
+  },
+  {
+    "id": 188,
+    "question_text": "Fill in the blank with the correct quantifier. I still have – money in my pocket.",
+    "options": ["a) a little", "b) many", "c) few", "d) a few"],
+    "answer": "a",
+    "source": "[সড়ক ও জনপথ অধিদপ্তরের উপসহকারী প্রকৌশলী (সিভিল)-০৩, SUST 08-09, ডাক অধিদপ্তরের হিসাব সহকারী/অফিস সহকারী-২২]"
+  },
+  {
+    "id": 189,
+    "question_text": "The word 'little' in the sentence ‘There is little hope in this case' means -",
+    "options": [
+      "a) there is some hope",
+      "b) there is ample hope",
+      "c) there is no hope",
+      "d) none of the above"
+    ],
+    "answer": "c",
+    "source": "[সহকারী পরিবার পরিকল্পনা অফিসার-১৬]"
+  },
+  {
+    "id": 190,
+    "question_text": "A lot of food was prepared, but hardly any of it was eaten. Here the underlined word can be substituted with -",
+    "options": ["a) little", "b) a little", "c) few", "d) a few"],
+    "answer": "a",
+    "source": "[আনসার ও ভিডিপি অধিদপ্তরের সার্কেল অ্যাডজুটেন্ট-১৫]"
+  },
+  {
+    "id": 191,
+    "question_text": "He has hardly any money on him. Underlined word means -",
+    "options": ["a) very little", "b) Nothing", "c) few", "d) enough"],
+    "answer": "a",
+    "source": "[JnU (D) 12-13]"
+  },
+  {
+    "id": 192,
+    "question_text": "There is – milk in the bottle.",
+    "options": ["a) very few", "b) any", "c) very little", "d) many"],
+    "answer": "c",
+    "source": "[DU A 12-13, ১৩তম শিক্ষক নিবন্ধন-১৬, সমাজসেবা অধিদপ্তরে ফিল্ড সুপাইভাইজার-১৭]"
+  },
+  {
+    "id": 193,
+    "question_text": "He has – friends in Chicago.",
+    "options": ["a) few", "b) few of", "c) a lot", "d) much", "e) much of"],
+    "answer": "a",
+    "source": "[CU (G) 14-15]"
+  },
+  {
+    "id": 194,
+    "question_text": "There is – hope of her recovery. (তার আরোগ্য লাভের আশা নেই বলিলেই চলে) / There is – hope of his recovery. (তার আরোগ্য লাভের আশা নেই বলিলেই চলে)",
+    "options": ["a) many", "b) little", "c) very", "d) few"],
+    "answer": "b",
+    "source": "[RU (D) 18-19] / [DU (B) 10-11]"
+  },
+  {
+    "id": 195,
+    "question_text": "She sold – milk.",
+    "options": ["a) little/a little", "b) small", "c) least", "d) heavy"],
+    "answer": "a",
+    "source": "[RU (সমাজবিজ্ঞান) 09-10, IU (F) 15-16]"
+  },
+  {
+    "id": 196,
+    "question_text": "Few men are free from faults. Here 'few' means -",
+    "options": ["a) some", "b) not much", "c) hardly any", "d) None"],
+    "answer": "c",
+    "source": "[বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় ১৫-১৬]"
+  },
+  {
+    "id": 197,
+    "question_text": "তার কোনো বন্ধু নেই বললেই চলে।",
+    "options": [
+      "a) He has a few friends.",
+      "b) He has no friends.",
+      "c) He has few friends.",
+      "d) He has the few friends."
+    ],
+    "answer": "c",
+    "source": "[শিক্ষা প্রকৌশল অধিদপ্তরে হিসাবরক্ষক-২১,৬ষ্ঠ প্রভাষক নিবন্ধন-১০, ১১তম শিক্ষক নিবন্ধন (২)-১৪, RU (F, অবিজ্ঞান) 16-17]"
+  },
+  {
+    "id": 198,
+    "question_text": "'They have little money' means-",
+    "options": [
+      "a) They have no money at all.",
+      "b) They have almost no money.",
+      "c) They have yet some money",
+      "d) They have quite some money."
+    ],
+    "answer": "b",
+    "source": "[CU (গ) 03-04, JKKNIU (D) 18-19, BSMRSTU (E) 19-20]"
+  },
+  {
+    "id": 199,
+    "question_text": "He has few friends means he has -",
+    "options": [
+      "a) no friend at all",
+      "b) almost no friends",
+      "c) some friends",
+      "d) a few friends"
+    ],
+    "answer": "b",
+    "source": "[CU (গ) 05-06]"
+  },
+  {
+    "id": 200,
+    "question_text": "- milk he gave me has been spilt. Choose the correct option.",
+    "options": [
+      "a) few",
+      "b) a few",
+      "c) little",
+      "d) a little",
+      "e) the little"
+    ],
+    "answer": "e",
+    "source": "[CU (ক) 08-09]"
+  },
+  {
+    "id": 201,
+    "question_text": "We should use – time we have in our hands to complete our preparation. / We should use – time we have at our disposal to settle the dispute.",
+    "options": [
+      "a) the little",
+      "b) the little of",
+      "c) the few",
+      "d) few",
+      "e) little"
+    ],
+    "answer": "a",
+    "source": "[CU (B7) 14-15] / [CU (C₁) 12-13]"
+  },
+  {
+    "id": 202,
+    "question_text": "I don't have – time today but I'll sit with you.",
+    "options": ["a) some", "b) full", "c) long", "d) much"],
+    "answer": "d",
+    "source": "[BU (ঘ) 14-15]"
+  },
+  {
+    "id": 203,
+    "question_text": "We have to stop the car and buy some petrol because there – in the tank.",
+    "options": [
+      "a) aren't many",
+      "b) isn't much",
+      "c) aren't any",
+      "d) isn't many"
+    ],
+    "answer": "b",
+    "source": "[KU (L) 14-15]"
+  },
+  {
+    "id": 204,
+    "question_text": "There aren't - people here.",
+    "options": ["a) much", "b) many", "c) a lot", "d) some"],
+    "answer": "b",
+    "source": "[CU (I) 13-14]"
+  },
+  {
+    "id": 205,
+    "question_text": "Do you have – to do this afternoon? If not, I'd like to take you to a movie.",
+    "options": [
+      "a) many works",
+      "b) much work",
+      "c) many work",
+      "d) much works"
+    ],
+    "answer": "b",
+    "source": "[DU C 06-07]"
+  },
+  {
+    "id": 206,
+    "question_text": "I didn't have – luggage, just two small bags.",
+    "options": ["a) little", "b) a little", "c) much", "d) many", "e) few"],
+    "answer": "c",
+    "source": "[CU (B) 09-10]"
+  },
+  {
+    "id": 207,
+    "question_text": "How - money do you have in your pocket?",
+    "options": ["a) many", "b) few", "c) much", "d) some", "e) a few"],
+    "answer": "c",
+    "source": "[বাংলাদেশ হাউজ বিল্ডিং ফিন্যান্স কর্পোরেশন (সিনিয়র অফিসার)-১১]"
+  },
+  {
+    "id": 208,
+    "question_text": "I don't have – spare time these days.",
+    "options": ["a) many", "b) much", "c) some", "d) more"],
+    "answer": "b",
+    "source": "[DU B 01-02, পরিবার পরিকল্পনা অধিদপ্তরের এমএলএস-২৩]"
+  },
+  {
+    "id": 209,
+    "question_text": "I don't take – tea. (আমি খুব বেশি চা খাই না)",
+    "options": ["a) much", "b) many", "c) too many", "d) more"],
+    "answer": "a",
+    "source": "[KU (জীববিজ্ঞান স্কুল) 11-12, বাংলাদেশ মেরিন একাডেমি ১৫-১৬]"
+  },
+  {
+    "id": 210,
+    "question_text": "- thanks go to you for your generous help. / Rafiq always has – problems with his tools.",
+    "options": ["a) Little", "b) A little", "c) Many", "d) Much"],
+    "answer": "c",
+    "source": "[NU (মানবিক) 12-13, JU (C) 16-17] / [JKKNIU (D) 18-19]"
+  },
+  {
+    "id": 211,
+    "question_text": "Is there any milk in that jug? Not -",
+    "options": ["a) none", "b) many", "c) much", "d) some"],
+    "answer": "c",
+    "source": "[DU (D) 01-02]"
+  },
+  {
+    "id": 212,
+    "question_text": "There are too many – during television shows.",
+    "options": [
+      "a) advertising",
+      "b) advertisement",
+      "c) advertisings",
+      "d) advertisements"
+    ],
+    "answer": "d",
+    "source": "[PSTU (BBA) 06-07, BSMRSTU (B) 16-17]"
+  },
+  {
+    "id": 213,
+    "question_text": "They spent – time considering the new contract.",
+    "options": ["a) too much", "b) too many", "c) too", "d) many", "e) very"],
+    "answer": "a",
+    "source": "[CU (ঘ) 07-08, CVASU 14-15]"
+  },
+  {
+    "id": 214,
+    "question_text": "- people trying to get into the football stadium.",
+    "options": [
+      "a) There were too much",
+      "b) There was too many",
+      "c) There were too many",
+      "d) It was too many",
+      "e) There was too much"
+    ],
+    "answer": "c",
+    "source": "[CU (E-Law) 05-06]"
+  },
+  {
+    "id": 215,
+    "question_text": "There is - on the roads today. (আজ রাস্তায় অনেক বেশি যানবাহন)",
+    "options": [
+      "a) few traffics",
+      "b) very much traffic",
+      "c) too much traffic",
+      "d) too many traffic"
+    ],
+    "answer": "c",
+    "source": "[LGRD এর অফিস সহকারী-২৩] / DU B 05-06"
+  },
+  {
+    "id": 216,
+    "question_text": "I would like – information, please.",
+    "options": ["a) an", "b) some", "c) few", "d) piece"],
+    "answer": "b",
+    "source": "[খাদ্য পরিদর্শক-১১, DU (A) 12-13, প্রাথমিক সহকারী শিক্ষক (৪র্থ পর্যায়)-১৯]"
+  },
+  {
+    "id": 217,
+    "question_text": "I have – problems.",
+    "options": ["a) a lots of", "b) a lot of", "c) lot many a", "d) lot"],
+    "answer": "b",
+    "source": "[বিএডিসি'র উপ-সহকারী পরিচালক/পরিদর্শক-২০]"
+  },
+  {
+    "id": 218,
+    "question_text": "There's - dust on these books. Fetch me a duster.",
+    "options": [
+      "a) a lot of",
+      "b) plenty of",
+      "c) lots of",
+      "d) a good deal of"
+    ],
+    "answer": "d",
+    "source": "[সাব-রেজিস্ট্রার-০৩, BRUR (C) 16-17]"
+  },
+  {
+    "id": 219,
+    "question_text": "I am going to buy – bread for breakfast.",
+    "options": ["a) a", "b) the", "c) some", "d) lot", "e) two"],
+    "answer": "c",
+    "source": "[SUST (A1) 14-15]"
+  },
+  {
+    "id": 220,
+    "question_text": "I have - new books at home.",
+    "options": ["a) some", "b) any", "c) little", "d) one"],
+    "answer": "a",
+    "source": "[পিটিআই এর ইনস্ট্রাক্টর-০৬]"
+  },
+  {
+    "id": 221,
+    "question_text": "The expression 'a lot of' means -",
+    "options": [
+      "a) an unexpected of",
+      "b) a large number or amount of",
+      "c) excessive",
+      "d) hugely"
+    ],
+    "answer": "b",
+    "source": "[RU (A, জোড়) 15-16]"
+  },
+  {
+    "id": 222,
+    "question_text": "There are - dangerous drivers.",
+    "options": [
+      "a) a very lot of",
+      "b) a lot of",
+      "c) very much of",
+      "d) very many of"
+    ],
+    "answer": "b",
+    "source": "[24th BCS, সংস্থাপন মন্ত্রণালয়ে প্রশাসনিক কর্মকর্তা-০৭, IU (G) 13-14]"
+  },
+  {
+    "id": 223,
+    "question_text": "The determiner 'some' is used before- nouns.",
+    "options": [
+      "a) both count and non-count",
+      "b) non-count",
+      "c) plural count",
+      "d) singular- count"
+    ],
+    "answer": "a",
+    "source": "[JnU (A) 10-11]"
+  },
+  {
+    "id": 224,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) I need a few furniture",
+      "b) I do not need many furnitures",
+      "c) I do not need many furnitures",
+      "d) I need some furniture"
+    ],
+    "answer": "d",
+    "source": "[DU (B) 04-05, IU (5) 05-06]"
+  },
+  {
+    "id": 225,
+    "question_text": "The police have collected - about the crime. / The entrepreneur has collected – about the investment opportunity.",
+    "options": [
+      "a) many information",
+      "b) many informations",
+      "c) a lot of information",
+      "d) a lot of informations"
+    ],
+    "answer": "c",
+    "source": "[DU (D) 97-98] / [DU (MBA) 08]"
+  },
+  {
+    "id": 226,
+    "question_text": "- can be grown on arid land. (অনুর্বর জমিতে মাত্র অল্প কিছু ফসল জন্মানো যায়)",
+    "options": [
+      "a) Only little crop",
+      "b) Only a little crops",
+      "c) Only few crop",
+      "d) Only a few crops"
+    ],
+    "answer": "d",
+    "source": "[DU (B) 02-03, (A) 16-17] / [JnU (B-EE) 09-10]"
+  },
+  {
+    "id": 227,
+    "question_text": "--- in the world export diamonds.",
+    "options": [
+      "a) Only little nations",
+      "b) Only few nation",
+      "c) Only a little nation",
+      "d) Only a few nations"
+    ],
+    "answer": "d",
+    "source": "[RU (B, Law) 15-16]"
+  },
+  {
+    "id": 228,
+    "question_text": "We will need only – food for the picnic.",
+    "options": ["a) a few", "b) a little", "c) a many", "d) the little"],
+    "answer": "b",
+    "source": "[PUST (B) 12-13]"
+  },
+  {
+    "id": 229,
+    "question_text": "Although southern California is densely populated, – live in the northern part of the state. (যদিও দক্ষিণ ক্যালিফোর্নিয়া ঘনবসতিপূর্ণ, কিন্তু প্রদেশটির উত্তর অংশে মাত্র অল্প কিছু লোক বাস করে)",
+    "options": [
+      "a) a little people",
+      "b) only a few people",
+      "c) some of the people",
+      "d) many people"
+    ],
+    "answer": "b",
+    "source": "[DU D 03-04]"
+  },
+  {
+    "id": 230,
+    "question_text": "Only - of these are any good. (এগুলোর মধ্যে মাত্র অল্প কয়েকটি উপকারী)",
+    "options": ["a) few", "b) a few", "c) one", "d) little"],
+    "answer": "b",
+    "source": "[JU (খ) 09-10]"
+  },
+  {
+    "id": 231,
+    "question_text": "The newspaper reports inform that women driver have - accidents than men.",
+    "options": ["a) less", "b) least", "c) lower", "d) fewer"],
+    "answer": "d",
+    "source": "[CU (C1) 12-13]"
+  },
+  {
+    "id": 232,
+    "question_text": "- traffic means – traffic accidents, people should use public transportation more. (অপেক্ষাকৃত অল্প পরিমাণ যানবাহন মানে তুলনামূলক কম সংখ্যক দুর্ঘটনা, ..)",
+    "options": [
+      "a) more, less",
+      "b) fewer, fewer",
+      "c) a few, less",
+      "d) less, fewer",
+      "e) few, less"
+    ],
+    "answer": "d",
+    "source": "[CU (E) 16-17]"
+  },
+  {
+    "id": 233,
+    "question_text": "There were - guests than I expected. / There are - students in this room than in the next room. / We had - applicants this year than we had last year.",
+    "options": ["a) less", "b) lesser", "c) fewer", "d) few"],
+    "answer": "c",
+    "source": "[JU (D) 17-18, পরিবার কল্যাণ পরিদর্শিকা-১৮] / [CU (C2) 05-06] / [বাংলাদেশ ব্যাংক (AD)-০৮]"
+  },
+  {
+    "id": 234,
+    "question_text": "The group has had ---- ten captains in just five years.",
+    "options": [
+      "a) few",
+      "b) no few then",
+      "c) no fewer than",
+      "d) not fewer than"
+    ],
+    "answer": "c",
+    "source": "[CU (F, F1) 14-15]"
+  },
+  {
+    "id": 235,
+    "question_text": "I have the (little) money. (আমার সবচেয়ে কম টাকা আছে)",
+    "options": ["a) slightest", "b) little", "c) least", "d) less"],
+    "answer": "c",
+    "source": "[Medical 06-07]"
+  },
+  {
+    "id": 236,
+    "question_text": "--- my friends knew I was leaving. / --- my friends knew that I had got the job.",
+    "options": [
+      "a) Not much of",
+      "b) Not many of",
+      "c) Not much",
+      "d) Not many"
+    ],
+    "answer": "b",
+    "source": "[CU (D) 06-07] / [NU (মানবিক) 14-15]"
+  },
+  {
+    "id": 237,
+    "question_text": "--- of what he said was very sensible. (তার কথার অনেক কিছুই যুক্তিসম্মত)",
+    "options": ["a) Many", "b) Much", "c) Few", "d) A few", "e) Every"],
+    "answer": "b",
+    "source": "[JU (F) 14-15, CU (E) 16-17]"
+  },
+  {
+    "id": 238,
+    "question_text": "There are too many people looking for – jobs in this country.",
+    "options": ["a) few", "b) a few", "c) so few", "d) too few"],
+    "answer": "d",
+    "source": "[CU (D) 13-14]"
+  },
+  {
+    "id": 239,
+    "question_text": "--- ten species of deer have been identified. / --- 100 species of fish have been identified.",
+    "options": ["a) As many", "b) As many as", "c) As much as", "d) Much as"],
+    "answer": "b",
+    "source": "[EXIM Bank-06] / [RU (নৃবিজ্ঞান) 09-10, CU (A) 11-12, BUET 12-13]"
+  },
+  {
+    "id": 240,
+    "question_text": "We need as – people as possible.",
+    "options": ["a) many", "b) much", "c) most", "d) enough"],
+    "answer": "a",
+    "source": "[বিভিন্ন মন্ত্রণালয়ে প্রশাসনিক কর্মকর্তা-১৮, ভূমি মন্ত্রণালয়ের নিরীক্ষক (রাজস্ব)-২৩]"
+  },
+  {
+    "id": 241,
+    "question_text": "It was estimated that - one lakh people would participate in the meeting. (এক লক্ষ লোক সভায় অংশ নেবে বলে অনুমান করা হয়েছিল)",
+    "options": [
+      "a) as much as",
+      "b) as many as",
+      "c) more",
+      "d) appropriately"
+    ],
+    "answer": "b",
+    "source": "[জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরোর উপপরিচালক-০৭]"
+  },
+  {
+    "id": 242,
+    "question_text": "Prices have increased by - 300 percent.",
+    "options": [
+      "a) as much as",
+      "b) as many as",
+      "c) as few as",
+      "d) so many as"
+    ],
+    "answer": "a",
+    "source": "[CU A 16-17, বিমান বাংলাদেশ এয়ারলাইন্স (বিভিন্ন পদ)-২৩]"
+  },
+  {
+    "id": 243,
+    "question_text": "I have - interest in the matter.",
+    "options": ["a) some", "b) any", "c) none", "d) no"],
+    "answer": "d",
+    "source": "[24th BCS, বিসিকের ১৩-১৬তম গ্রেডের কর্মচারী-১৯]"
+  },
+  {
+    "id": 244,
+    "question_text": "A person of – age may suffer from defects of vision.",
+    "options": ["a) every", "b) any", "c) certain", "d) some"],
+    "answer": "b",
+    "source": "[সহকারী পল্লী উন্নয়ন কর্মকর্তা-১৩]"
+  },
+  {
+    "id": 245,
+    "question_text": "They have – children. (তাদের কোনো সন্তান নেই) / Fill in the blank. We received – reply. (আমরা কোনো উত্তর পাইনি)",
+    "options": ["a) no", "b) none", "c) not", "d) nothing"],
+    "answer": "a",
+    "source": "[গণপূর্ত অধিদপ্তরের উপ-সহকারী প্রকৌশলী (সিভিল)-১৮] / [সিনিয়র স্টাফ নার্স-১৮]"
+  },
+  {
+    "id": 246,
+    "question_text": "Would you like – chicken?",
+    "options": ["a) any", "b) a", "c) some", "d) one"],
+    "answer": "c",
+    "source": "[CU (G) 14-15]"
+  },
+  {
+    "id": 247,
+    "question_text": "Can I have - milk in my coffee, please?",
+    "options": ["a) little", "b) any", "c) some", "d) much"],
+    "answer": "c",
+    "source": "[CU (E) 02-03]"
+  },
+  {
+    "id": 248,
+    "question_text": "There is - sugar in the house, so we have to go out and buy -. / There's - food in the house, so we'll have to go out to buy —.",
+    "options": ["a) some, any", "b) no, some", "c) a, none", "d) any, them"],
+    "answer": "b",
+    "source": "[BSMRSTU (F) 18-19] / [CU (A) 16-17]"
+  },
+  {
+    "id": 249,
+    "question_text": "While there is – single newspaper with a large national circulation, many magazines have national circulation.",
+    "options": ["a) not", "b) no", "c) no one", "d) not any one"],
+    "answer": "b",
+    "source": "[JU (E1) 13-14]"
+  },
+  {
+    "id": 250,
+    "question_text": "Today - people who enjoy cricket is bigger than that of thirty years ago.",
+    "options": [
+      "a) a great deal of",
+      "b) number of",
+      "c) many",
+      "d) the number of"
+    ],
+    "answer": "d",
+    "source": "[প্রাথ: সহ: শিক্ষক-১৮]"
+  },
+  {
+    "id": 251,
+    "question_text": "- the dictionaries have information about pronunciation.",
+    "options": ["a) Most of", "b) The most", "c) Most", "d) Almost the"],
+    "answer": "a",
+    "source": "[JU (IBA) 11-12]"
+  },
+  {
+    "id": 252,
+    "question_text": "Hasan has read most of the - of Shakespeare.",
+    "options": ["a) poem", "b) play", "c) drama", "d) works"],
+    "answer": "d",
+    "source": "[42nd BCS]"
+  },
+  {
+    "id": 253,
+    "question_text": "I need - milk.",
+    "options": ["a) a few", "b) a little", "c) a hot", "d) a lot"],
+    "answer": "b",
+    "source": "[রেলপথ মন্ত্রণালয়ের উপসহকারী প্রকৌশলী-১৭, মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের ওয়ারলেস অপারেটর-২১]"
+  },
+  {
+    "id": 254,
+    "question_text": "What kind of noun is 'knowledge'?",
+    "options": ["a) Proper", "b) Material", "c) Abstract", "d) Common"],
+    "answer": "c",
+    "source": "[BSMRSTU (C) 18-19, সমবায় অধিদপ্তরের তাঁত সুপারভাইজার-২৩]"
+  },
+  {
+    "id": 255,
+    "question_text": "I need some -. The correct answer is",
+    "options": ["a) advises", "b) advice", "c) advices", "d) advise"],
+    "answer": "b",
+    "source": "[পররাষ্ট্র মন্ত্রণালয়ের ব্যক্তিগত কর্মকর্তা-১৯]"
+  },
+  {
+    "id": 256,
+    "question_text": "The countable form of 'laughter' is-",
+    "options": ["a) The laugh", "b) a laugh", "c) Laugh", "d) all of these"],
+    "answer": "c",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (২য় পর্যায়)-১৯]"
+  },
+  {
+    "id": 257,
+    "question_text": "There is – milk in the glass.",
+    "options": ["a) a little", "b) a big amount", "c) much", "d) small"],
+    "answer": "a",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (১ম পর্যায়)-১৯]"
+  },
+  {
+    "id": 258,
+    "question_text": "We need to buy some new - .",
+    "options": [
+      "a) furnishers",
+      "b) furniture",
+      "c) furnisher",
+      "d) furniture's"
+    ],
+    "answer": "b",
+    "source": "[প্রাথমিক সহকারী শিক্ষক (৪র্থ পর্যায়)-১৯, প্রাণীসম্পদ অধিদপ্তরের ভিএফ/কম্পাউন্ডার-২০]"
+  },
+  {
+    "id": 259,
+    "question_text": "Manisha did the job without having – interest in it.",
+    "options": ["a) much", "b) all", "c) many", "d) little"],
+    "answer": "a",
+    "source": "[NSI এর ওয়াচার কনস্টেবল-১৯]"
+  },
+  {
+    "id": 260,
+    "question_text": "I still have - money. (আমার এখনো কিছু টাকা আছে)",
+    "options": ["a) a few", "b) quite a few", "c) many", "d) a little"],
+    "answer": "d",
+    "source": "[38th BCS, মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের হিসাবরক্ষক-১৯]"
+  },
+  {
+    "id": 261,
+    "question_text": "Choose the correct sentence. [আমার অনেক কাজ করার আছে]",
+    "options": [
+      "a) I have many works to perform.",
+      "b) I have many work to perform.",
+      "c) I have much works to perform.",
+      "d) I have much work to perform."
+    ],
+    "answer": "d",
+    "source": "[১৫তম প্রভাষক নিবন্ধন-১৯]"
+  },
+  {
+    "id": 262,
+    "question_text": "I don't have - .",
+    "options": [
+      "a) many furnitures",
+      "b) much furniture",
+      "c) much furnitures",
+      "d) many furniture"
+    ],
+    "answer": "b",
+    "source": "[শিল্প মন্ত্রণালয়ের অধীন বিসিআইসি'র সহকারী ব্যবস্থাপক (প্রশাসন)-১৮]"
+  },
+  {
+    "id": 263,
+    "question_text": "She wanted to serve some coffee to her guests, however ----.",
+    "options": [
+      "a) She had not many sugar",
+      "b) there was not great amount of sugar",
+      "c) She did not have much sugar.",
+      "d) She was lacking in amount of sugar"
+    ],
+    "answer": "c",
+    "source": "[মেকানিক্যাল এন্ড পাওয়ার ইঞ্জিনিয়ারিং-৯৯, CU (H) 13-14, (B-1) 15-16, সিটি ব্যাংক লি. (ট্রেইনি অফিসার)-১৮]"
+  },
+  {
+    "id": 264,
+    "question_text": "Find the correct sentence.",
+    "options": [
+      "a) The intruder stood quietly for few moments.",
+      "b) The intruder stood quietly for a few moments.",
+      "c) The intruder stood quietly few moments.",
+      "d) The intruder stood quietly for the few moments."
+    ],
+    "answer": "b",
+    "source": "[DU (C) 16-17, অগ্রনী ব্যাংক লি. (সিনিয়র অফিসার)-১৭]"
+  },
+  {
+    "id": 265,
+    "question_text": "'A few' is a -",
+    "options": [
+      "a) positive term",
+      "b) negative term",
+      "c) meaningless term",
+      "d) none of the above"
+    ],
+    "answer": "a",
+    "source": "[স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রণালয়ের সহকারী প্রকৌশলী (সিভিল)-১৭]"
+  },
+  {
+    "id": 266,
+    "question_text": "Choose the correct sentence: (তোমাকে একটি উপদেশ দিই)",
+    "options": [
+      "a) Let me give you an advice.",
+      "b) Let me give you one advice.",
+      "c) Let me give you a single advice.",
+      "d) Let me give you a piece of advice."
+    ],
+    "answer": "d",
+    "source": "[গণপূর্ত অধিদপ্তরের উপসহকারী প্রকৌশলী (সিভিল)-১৭]"
+  },
+  {
+    "id": 267,
+    "question_text": "- people can travel abroad.",
+    "options": ["a) Very less", "b) Little", "c) Few", "d) Least"],
+    "answer": "c",
+    "source": "[গণপূর্ত অধিদপ্তরের হিসাব সহকারী-১৬]"
+  },
+  {
+    "id": 268,
+    "question_text": "Choose the countable noun.",
+    "options": ["a) Newspaper", "b) Water", "c) Fine", "d) Magic"],
+    "answer": "a",
+    "source": "[NSI-এর অফিস সহকারী-কাম-কম্পিউটার মুদ্রাক্ষরিক-১৭]"
+  },
+  {
+    "id": 269,
+    "question_text": "Choose the countable noun from below.",
+    "options": ["a) Love", "b) Music", "c) Sand", "d) Message"],
+    "answer": "d",
+    "source": "[NSI-এর অফিস সহকারী-কাম-কম্পিউটার মুদ্রাক্ষরিক-১৭]"
+  },
+  {
+    "id": 270,
+    "question_text": "Choose the uncountable noun from below.",
+    "options": ["a) Dream", "b) Salt", "c) Thought", "d) Table"],
+    "answer": "b",
+    "source": "[NSI-এর অফিস সহকারী-কাম-কম্পিউটার মুদ্রাক্ষরিক-১৭]"
+  },
+  {
+    "id": 271,
+    "question_text": "I don't have - furniture.",
+    "options": ["a) much", "b) more", "c) many", "d) too"],
+    "answer": "a",
+    "source": "[সমাজসেবা অধিদপ্তরে সহকারী শিক্ষক-১৭]"
+  },
+  {
+    "id": 272,
+    "question_text": "Give me - milk.",
+    "options": ["a) the little", "b) little", "c) a little", "d) a few"],
+    "answer": "c",
+    "source": "[বিভিন্ন মন্ত্রণালয়ের সহকারী প্রোগ্রামার-১৭]"
+  },
+  {
+    "id": 273,
+    "question_text": "The town is very quiet at night. - people go out.",
+    "options": ["a) a little", "b) very few", "c) little", "d) a few"],
+    "answer": "b",
+    "source": "[রাজশাহী কৃষি উন্নয়ন ব্যাংক (কর্মকর্তা, ২য় শ্রেণি)-১৫]"
+  },
+  {
+    "id": 274,
+    "question_text": "For an investor who – money, silver or bonds are good options.",
+    "options": [
+      "a) has so a little",
+      "b) has very few",
+      "c) has so few",
+      "d) has very little"
+    ],
+    "answer": "d",
+    "source": "[বাংলাদেশ ব্যাংক (AD)-১৩]"
+  },
+  {
+    "id": 275,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) I have many works to do.",
+      "b) I have many work to do.",
+      "c) I have a lot of work to do.",
+      "d) I have great deal works to do."
+    ],
+    "answer": "c",
+    "source": "[পিএসসি'র সহকারী পরিচালক-০৬]"
+  },
+  {
+    "id": 276,
+    "question_text": "We have not been given — update on the patient's condition.",
+    "options": ["a) some", "b) none", "c) any", "d) much"],
+    "answer": "c",
+    "source": "[DU B 19-20]"
+  },
+  {
+    "id": 277,
+    "question_text": "Choose the incorrect word for the gap. - of the film was worth watching.",
+    "options": ["a) Several", "b) Some", "c) The whole", "d) Much"],
+    "answer": "a",
+    "source": "[BSMRSTU E 18-19]"
+  },
+  {
+    "id": 278,
+    "question_text": "Identify the sentence where the determiner is used properly-",
+    "options": [
+      "a) I have not much friends here.",
+      "b) I have a few friends here.",
+      "c) I have not a little friends here.",
+      "d) I have a little friends here."
+    ],
+    "answer": "b",
+    "source": "[BSMRSTU (F) 18-19]"
+  },
+  {
+    "id": 279,
+    "question_text": "We could barely get any information at the airport. – people seemed to have – idea about the flights.",
+    "options": [
+      "a) Many/ any",
+      "b) A lot of/ any",
+      "c) Only a few/ some",
+      "d) Few/ no"
+    ],
+    "answer": "c",
+    "source": "[IU (B) 18-19]"
+  },
+  {
+    "id": 280,
+    "question_text": "Heavy fines and jail sentences have made – difference in preventing elephant poaching. (ব্যাপক জরিমানা এবং কারাদণ্ড হাতি শিকার প্রতিরোধে খুব তফাৎ করেনি)",
+    "options": ["a) a few", "b) many", "c) little", "d) the number of"],
+    "answer": "c",
+    "source": "[Sonali Bank (SO)-14, CU (E, Law) 16-17]"
+  },
+  {
+    "id": 281,
+    "question_text": "Translate into English: তিনি আমাকে অনেক উপদেশ দিয়েছিলেন।",
+    "options": [
+      "a) He gave me a lot of advice.",
+      "b) He gave me many advice.",
+      "c) He gave me many advices.",
+      "d) He gave me too much advice."
+    ],
+    "answer": "a",
+    "source": "[COU (B) 08-09]"
+  },
+  {
+    "id": 282,
+    "question_text": "Which of the following sentences is incorrect?",
+    "options": [
+      "a) I wonder whether there is any time left.",
+      "b) Are there some roses in the garden?",
+      "c) The train has just arrived.",
+      "d) I have left my purse at home."
+    ],
+    "answer": "b",
+    "source": "[CU (G) 11-12]"
+  },
+  {
+    "id": 283,
+    "question_text": "One and a half million people drive rickshaws for a living, plus – hundred thousand who own and repair them.",
+    "options": ["a) few", "b) a few", "c) little", "d) a little"],
+    "answer": "b",
+    "source": "[DU (A) 17-18]"
+  },
+  {
+    "id": 284,
+    "question_text": "Sister gave him - water.",
+    "options": ["a) a few", "b) a little", "c) a lot", "d) many"],
+    "answer": "b",
+    "source": "[IU H 17-18]"
+  },
+  {
+    "id": 285,
+    "question_text": "Which one is used in a negative sense?",
+    "options": ["a) the few", "b) a few", "c) few", "d) very few"],
+    "answer": "c",
+    "source": "[RU (E2) 17-18]"
+  },
+  {
+    "id": 286,
+    "question_text": "Do you mind if I ask you - questions? / Excuse me, can I ask you – questions?/Would you mind waiting – minutes?",
+    "options": ["a) few", "b) little", "c) a few", "d) a little"],
+    "answer": "c",
+    "source": "[IU (G) 17-18] / [সম্ভাব্য প্রশ্ন]"
+  },
+  {
+    "id": 287,
+    "question_text": "The word 'poetry' is _",
+    "options": [
+      "a) a countable noun",
+      "b) an uncountable noun",
+      "c) a plural noun",
+      "d) an abstract noun"
+    ],
+    "answer": "b",
+    "source": "[JnU (B) 17-18]"
+  },
+  {
+    "id": 288,
+    "question_text": "Which one of the following sentence is correct?",
+    "options": [
+      "a) Give me a few butter, please",
+      "b) Give me a little butters, please",
+      "c) I have a little money",
+      "d) Both a and c"
+    ],
+    "answer": "c",
+    "source": "[BRUR (E) 16-17]"
+  },
+  {
+    "id": 289,
+    "question_text": "All we need to complete the case is a single —.",
+    "options": [
+      "a) information",
+      "b) pieces of information",
+      "c) items of information",
+      "d) item of information"
+    ],
+    "answer": "d",
+    "source": "[CU (E) 05-06]"
+  },
+  {
+    "id": 290,
+    "question_text": "There are four sentences. In one of them only the determiner used properly. Identify the same.",
+    "options": [
+      "a) I don't want these water.",
+      "b) He does have many money.",
+      "c) I would take a little salt on my vegetables.",
+      "d) There are less people here than in the other place."
+    ],
+    "answer": "c",
+    "source": "[জেলা প্রাথমিক শিক্ষা অফিসার, পিটিআই এর সুপারিনটেনডেন্ট, সহকারী সুপারিনটেনডেন্ট-০৫]"
+  },
+  {
+    "id": 291,
+    "question_text": "In order to improve farming methods, we need -----.",
+    "options": [
+      "a) machine",
+      "b) machinery",
+      "c) machineries",
+      "d) a machinery"
+    ],
+    "answer": "b",
+    "source": "[RU (G) 12-13, CU (A2) 14-15, BRUR D 17-18, বিভিন্ন মন্ত্রণালয়ের উপ-সহকারী প্রকৌশলী (সিভিল)-১৯]"
+  },
+  {
+    "id": 292,
+    "question_text": "Choose the correct sentence:",
+    "options": [
+      "a) I need a few furnitures.",
+      "b) I need a few furniture.",
+      "c) I do not need furniture.",
+      "d) I do need some furnitures."
+    ],
+    "answer": "c",
+    "source": "[DU 04-05]"
+  },
+  {
+    "id": 293,
+    "question_text": "------ is currently available to researchers and physicians who study the indigenous life of Bangladesh.",
+    "options": [
+      "a) A little information",
+      "b) Few information",
+      "c) Little information",
+      "d) A few information"
+    ],
+    "answer": "c",
+    "source": "[DU (D) 03-04] Barron's TOEFL Problem 69"
+  },
+  {
+    "id": 294,
+    "question_text": "According some studies, dolphins, whales and - other sea creatures use highly sophisticated navigation systems.",
+    "options": ["a) any", "b) a little", "c) many", "d) much"],
+    "answer": "c",
+    "source": "[DU (A) 16-17]"
+  },
+  {
+    "id": 295,
+    "question_text": "How many engineering ---- there in Bangladesh? (বাংলাদেশে কতগুলো প্রকৌশল বিশ্ববিদ্যালয় আছে?)",
+    "options": [
+      "a) university, is",
+      "b) universities, are",
+      "c) universities, is",
+      "d) university, are"
+    ],
+    "answer": "b",
+    "source": "[DU (B) 10-11, PUST (B) 14-15]"
+  },
+  {
+    "id": 296,
+    "question_text": "In my country, - universities offer a wide range of courses.",
+    "options": ["a) every", "b) each", "c) a great deal", "d) most"],
+    "answer": "d",
+    "source": "[BSMRSTU (F) 18-19]"
+  },
+  {
+    "id": 297,
+    "question_text": "I have — enemies, but they can do me - harm. (আমার অল্প কিছু শত্রু আছে কিন্তু তারা আমার কোনো ক্ষতি করতে পারে না বললেই চলে)",
+    "options": [
+      "a) no, little",
+      "b) many, many",
+      "c) little, much",
+      "d) a few, little"
+    ],
+    "answer": "d",
+    "source": "[JnU (D) 10-11]"
+  },
+  {
+    "id": 298,
+    "question_text": "We didn't buy – flowers.",
+    "options": ["a) many", "b) large", "c) lot of", "d) any"],
+    "answer": "d",
+    "source": "[RU (সামাজিক বিজ্ঞান) 08-09]"
+  },
+  {
+    "id": 299,
+    "question_text": "Anne is very busy these days, she has - free time.",
+    "options": ["a) plenty of", "b) a lot of", "c) little", "d) much"],
+    "answer": "c",
+    "source": "[CU (E) 02-03]"
+  },
+  {
+    "id": 300,
+    "question_text": "We don't have to rush. We've got - time.",
+    "options": ["a) much", "b) plenty of", "c) a little", "d) little"],
+    "answer": "b",
+    "source": "[CU (E) 02-03]"
+  },
+  {
+    "id": 301,
+    "question_text": "Travelers' checks are useful when one is travelling because – people get advantages by using them during travelling.",
+    "options": ["a) some", "b) few", "c) many", "d) much"],
+    "answer": "c",
+    "source": "[JnU (D) 13-14]"
+  },
+  {
+    "id": 302,
+    "question_text": "It costs relatively – and you can save a lot.",
+    "options": ["a) little", "b) a little", "c) slight", "d) small"],
+    "answer": "a",
+    "source": "[NU (বিজ্ঞান) 13-14, -ক্যান্টনমেন্ট অধিদপ্তরের জুনিয়র শিক্ষক-২১]"
+  },
+  {
+    "id": 303,
+    "question_text": "- number of people are suffering from the disease throughout the world.",
+    "options": ["a) A greater", "b) A heavy", "c) A higher", "d) A good"],
+    "answer": "d",
+    "source": "[JU C1 18-19]"
+  },
+  {
+    "id": 304,
+    "question_text": "Applications have risen this year by - 50%.",
+    "options": [
+      "a) so far",
+      "b) as much as",
+      "c) much as",
+      "d) as far as",
+      "e) few than"
+    ],
+    "answer": "b",
+    "source": "[CU (G) 14-15]"
+  },
+  {
+    "id": 305,
+    "question_text": "We can offer him a – help which can be instrumental for his survival.",
+    "options": ["a) some", "b) little", "c) few", "d) many"],
+    "answer": "b",
+    "source": "[JU (C2) 15-16]"
+  },
+  {
+    "id": 306,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) Give me little butter please",
+      "b) Give me few butter please",
+      "c) Give me a little butter please",
+      "d) Give me a few butter please"
+    ],
+    "answer": "c",
+    "source": "[BU (ঘ) 15-16]"
+  },
+  {
+    "id": 307,
+    "question_text": "He did not give me -----. (তিনি/সে আমাকে বেশি উপদেশ দেননি/দেয়নি)",
+    "options": [
+      "a) much advice",
+      "b) much advices",
+      "c) many advice",
+      "d) many advices"
+    ],
+    "answer": "a",
+    "source": "[PSC-12]"
+  },
+  {
+    "id": 308,
+    "question_text": "Although southern California is densely populated, --- live in the northern part of the state. (যদিও দক্ষিণ ক্যালিফোর্নিয়া ঘনবসতিপূর্ণ কিন্তু রাজ্যটির উত্তরে লোকজন বাস করে না বললেই চলে)",
+    "options": [
+      "a) a little people",
+      "b) a few the people",
+      "c) few people",
+      "d) a little of people"
+    ],
+    "answer": "c",
+    "source": "Barron's TOEFL 67 Few & Little"
+  },
+  {
+    "id": 309,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) We take decisions based on some informations.",
+      "b) We take decision based on some information.",
+      "c) We take decisions based on some information.",
+      "d) We take decision based on some informations.",
+      "e) Both (a) & (c) above"
+    ],
+    "answer": "c",
+    "source": "[DU (C) 03-04]"
+  },
+  {
+    "id": 310,
+    "question_text": "I bought – for my laboratory last week.",
+    "options": [
+      "a) two equipments",
+      "b) two pieces of equipments",
+      "c) two pieces of equipment",
+      "d) two equipment pieces"
+    ],
+    "answer": "c",
+    "source": "[CU (D) 11-12]"
+  },
+  {
+    "id": 311,
+    "question_text": "I have few books. এর অর্থ কি-",
+    "options": [
+      "a) আমার অল্প কিছু বই আছে",
+      "b) আমার বই নেই বললেই চলে",
+      "c) আমার কিছু বই আছে",
+      "d) আমার বই আছে তবে অল্প"
+    ],
+    "answer": "b",
+    "source": "[JU (গ) 12-13]"
+  },
+  {
+    "id": 312,
+    "question_text": "The students liked that professor's course because ----.",
+    "options": [
+      "a) there was few if any homework",
+      "b) not a lot of homework",
+      "c) there was little or no homework",
+      "d) of there wasn't a great amount of homework"
+    ],
+    "answer": "c",
+    "source": "[CU (B-1) 15-16]"
+  },
+  {
+    "id": 313,
+    "question_text": "Emma looked for dark spots on the apples. She didn't see - spot, however.",
+    "options": ["a) any", "b) some", "c) few", "d) much"],
+    "answer": "a",
+    "source": "[NU (Arts) 13-14]"
+  },
+  {
+    "id": 314,
+    "question_text": "- a problem in most big cities.",
+    "options": [
+      "a) Crimes are",
+      "b) The crime is",
+      "c) Crime is",
+      "d) The crimes are"
+    ],
+    "answer": "c",
+    "source": "[CU (ঘ) 11-12]"
+  },
+  {
+    "id": 315,
+    "question_text": "I have - hope that he will pass.",
+    "options": ["a) little", "b) any", "c) some", "d) few"],
+    "answer": "a",
+    "source": "[HSTU (A) 15-16]"
+  },
+  {
+    "id": 316,
+    "question_text": "After the invention of computer, - publishers prefer hand-written manuscripts.",
+    "options": ["a) many", "b) most", "c) almost", "d) few"],
+    "answer": "d",
+    "source": "[NU (Arts) 03-04]"
+  },
+  {
+    "id": 317,
+    "question_text": "We didn't spend - money.",
+    "options": ["a) much", "b) many", "c) few", "d) only a few"],
+    "answer": "a",
+    "source": "[NU (মানবিক) 04-05]"
+  },
+  {
+    "id": 318,
+    "question_text": "We do not know much about the red planet Mars as we have got - information of that planet.",
+    "options": ["a) few", "b) a few", "c) little", "d) a little"],
+    "answer": "c",
+    "source": "[CU (C2) 03-04]"
+  },
+  {
+    "id": 319,
+    "question_text": "Choose the correct sentence. (আজকাল তুলনামূলক কম সংখ্যক লোক আমেরিকান ভিসা পায়)",
+    "options": [
+      "a) Less people get American visas nowadays.",
+      "b) Less people get American visas nowadays.",
+      "c) Fewer people get American visas nowadays.",
+      "d) Few people get American visas nowadays."
+    ],
+    "answer": "c",
+    "source": "[DU (D) 01-02]"
+  },
+  {
+    "id": 320,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "a) My headmaster gave me some good advice on choosing a career.",
+      "b) My headmaster gave me a good advice on choosing a career.",
+      "c) My headmaster gave me good advice on choosing a career.",
+      "d) My headmaster good advice gave me on choosing a career."
+    ],
+    "answer": "a",
+    "source": "[তথ্য মন্ত্রণালয়ের সহকারী পরিচালক-০১]"
+  },
+  {
+    "id": 321,
+    "question_text": "Choose the correct sentence.",
+    "options": [
+      "a) I have little friends in Bangladesh",
+      "b) I have a little friends in Bangladesh",
+      "c) I have few friend in Bangladesh",
+      "d) I have a few friends in Bangladesh"
+    ],
+    "answer": "d",
+    "source": "[প্রধানমন্ত্রীর কার্যালয় ও মন্ত্রীপরিষদ কার্যালয়ে প্রশাসনিক কর্মকর্তা-০৪]"
+  },
+  {
+    "id": 322,
+    "question_text": "Which of the following is a compound noun?",
+    "options": ["a) Bay of Bengal", "b) Team", "c) Sunlight", "d) Country"],
+    "answer": "c",
+    "source": "[JU (H) 14-15]"
+  },
+  {
+    "id": 323,
+    "question_text": "Which of the following nouns is made up of two nouns?",
+    "options": ["a) Happiness", "b) Classroom", "c) Whitepen", "d) Obscurity"],
+    "answer": "b",
+    "source": "[JnU (C) 14-15]"
+  },
+  {
+    "id": 324,
+    "question_text": "Which one is a compound noun?",
+    "options": [
+      "a) Headmaster",
+      "b) Information",
+      "c) Friday",
+      "d) Examination"
+    ],
+    "answer": "a",
+    "source": "[১১তম প্রভাষক নিবন্ধন-১৪, একটি বাড়ি একটি খামার প্রকল্পের জেলা সমন্বয়কারী-১৭]"
+  },
+  {
+    "id": 325,
+    "question_text": "Which one is a compound noun?",
+    "options": [
+      "a) Entertainment",
+      "b) Hair-brush",
+      "c) Holiday",
+      "d) Comprehension"
+    ],
+    "answer": "b",
+    "source": "[১০ম প্রভাষক নিবন্ধন-১৪]"
+  },
+  {
+    "id": 326,
+    "question_text": "This is my writing table.",
+    "options": [
+      "a) complement",
+      "b) compound noun",
+      "c) object to a preposition"
+    ],
+    "answer": "b",
+    "source": "[পরিবার পরিকল্পনা অধিদপ্তর অফিস সহকারী কাম কম্পিউটার অপারেটর-১১]"
+  }
+]
